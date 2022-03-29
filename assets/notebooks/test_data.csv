@@ -1,0 +1,996 @@
+,CHECKINGSTATUS,LOANDURATION,CREDITHISTORY,LOANPURPOSE,LOANAMOUNT,EXISTINGSAVINGS,EMPLOYMENTDURATION,INSTALLMENTPERCENT,SEX,OTHERSONLOAN,CURRENTRESIDENCEDURATION,OWNSPROPERTY,AGE,INSTALLMENTPLANS,HOUSING,EXISTINGCREDITSCOUNT,JOB,DEPENDENTS,TELEPHONE,FOREIGNWORKER,RISK
+0,0_to_200,4,all_credits_paid_back,car_new,250,less_100,1_to_4,1,female,none,1,real_estate,29,bank,own,1,unemployed,1,none,yes,No Risk
+1,0_to_200,4,all_credits_paid_back,car_new,250,less_100,1_to_4,2,female,none,2,savings_insurance,19,none,rent,1,skilled,1,none,yes,No Risk
+2,0_to_200,4,all_credits_paid_back,car_new,250,less_100,less_1,1,male,none,2,savings_insurance,21,stores,rent,1,skilled,1,none,yes,No Risk
+3,0_to_200,4,all_credits_paid_back,car_new,250,less_100,less_1,2,female,none,2,real_estate,22,none,own,1,skilled,1,none,yes,No Risk
+4,0_to_200,4,all_credits_paid_back,car_new,1704,less_100,1_to_4,3,female,none,2,car_other,19,none,own,1,skilled,1,none,yes,No Risk
+5,0_to_200,4,all_credits_paid_back,car_new,2265,less_100,less_1,2,male,none,2,savings_insurance,27,none,rent,1,skilled,1,none,yes,No Risk
+6,0_to_200,4,all_credits_paid_back,car_used,250,less_100,unemployed,2,female,none,3,real_estate,35,none,own,1,skilled,1,yes,yes,No Risk
+7,0_to_200,4,all_credits_paid_back,education,936,less_100,less_1,2,male,none,2,savings_insurance,41,bank,rent,1,unskilled,1,none,yes,No Risk
+8,0_to_200,4,all_credits_paid_back,furniture,250,less_100,1_to_4,2,female,none,1,real_estate,19,bank,rent,1,unskilled,1,none,yes,No Risk
+9,0_to_200,4,all_credits_paid_back,furniture,4231,less_100,1_to_4,2,female,none,1,real_estate,19,none,own,1,skilled,1,none,yes,No Risk
+10,0_to_200,4,credits_paid_to_date,car_new,250,less_100,1_to_4,2,female,none,1,real_estate,32,none,own,1,skilled,1,none,yes,No Risk
+11,0_to_200,4,credits_paid_to_date,car_new,250,less_100,4_to_7,1,male,none,1,savings_insurance,33,none,own,1,skilled,1,none,yes,No Risk
+12,0_to_200,4,credits_paid_to_date,car_new,3185,less_100,4_to_7,2,male,none,2,car_other,45,none,own,1,skilled,1,yes,yes,No Risk
+13,0_to_200,4,credits_paid_to_date,car_used,250,500_to_1000,1_to_4,3,male,none,2,savings_insurance,23,none,own,1,management_self-employed,1,none,yes,No Risk
+14,0_to_200,4,credits_paid_to_date,car_used,250,less_100,less_1,2,female,none,1,savings_insurance,30,none,own,1,skilled,1,none,yes,No Risk
+15,0_to_200,4,credits_paid_to_date,car_used,389,less_100,less_1,2,female,co-applicant,2,real_estate,40,none,own,1,skilled,1,yes,no,Risk
+16,0_to_200,4,credits_paid_to_date,car_used,1052,500_to_1000,1_to_4,3,male,co-applicant,3,savings_insurance,42,none,free,1,skilled,1,yes,yes,No Risk
+17,0_to_200,4,credits_paid_to_date,education,250,less_100,less_1,2,female,none,3,real_estate,28,stores,rent,1,unskilled,2,none,yes,No Risk
+18,0_to_200,4,no_credits,car_new,250,less_100,1_to_4,1,female,none,1,real_estate,21,stores,rent,1,skilled,1,none,yes,No Risk
+19,0_to_200,4,no_credits,car_new,388,less_100,unemployed,2,female,none,3,real_estate,23,stores,rent,1,unskilled,1,none,yes,No Risk
+20,0_to_200,4,prior_payments_delayed,appliances,2280,less_100,1_to_4,2,female,none,1,car_other,33,none,own,1,skilled,1,none,yes,Risk
+21,0_to_200,4,prior_payments_delayed,car_new,250,less_100,4_to_7,3,male,none,2,savings_insurance,29,none,own,1,skilled,1,yes,yes,No Risk
+22,0_to_200,4,prior_payments_delayed,car_new,250,less_100,less_1,2,female,none,2,real_estate,24,none,own,1,skilled,1,none,yes,No Risk
+23,0_to_200,4,prior_payments_delayed,car_new,1233,100_to_500,less_1,2,female,none,3,car_other,26,none,rent,1,skilled,1,none,yes,No Risk
+24,0_to_200,4,prior_payments_delayed,car_used,3365,less_100,1_to_4,2,male,co-applicant,3,savings_insurance,43,none,own,1,skilled,1,none,no,No Risk
+25,0_to_200,4,prior_payments_delayed,furniture,2571,500_to_1000,4_to_7,3,female,none,2,car_other,38,none,own,2,skilled,1,none,yes,No Risk
+26,0_to_200,5,all_credits_paid_back,car_new,250,100_to_500,1_to_4,1,female,none,1,real_estate,31,stores,rent,1,skilled,1,none,yes,No Risk
+27,0_to_200,5,all_credits_paid_back,car_used,691,less_100,1_to_4,3,female,none,3,savings_insurance,19,bank,rent,1,unskilled,1,none,yes,No Risk
+28,0_to_200,5,prior_payments_delayed,car_new,250,less_100,4_to_7,3,male,none,2,real_estate,24,none,own,1,skilled,1,none,yes,No Risk
+29,0_to_200,7,all_credits_paid_back,car_new,250,less_100,less_1,1,male,none,1,real_estate,20,none,rent,1,skilled,1,none,yes,No Risk
+30,0_to_200,7,all_credits_paid_back,car_new,3091,less_100,less_1,3,female,none,2,savings_insurance,28,none,own,2,skilled,1,none,yes,No Risk
+31,0_to_200,7,all_credits_paid_back,vacation,7164,less_100,less_1,2,female,none,1,car_other,24,none,free,2,management_self-employed,1,yes,yes,No Risk
+32,0_to_200,8,all_credits_paid_back,car_used,3046,less_100,less_1,1,female,none,1,savings_insurance,19,none,own,1,skilled,1,none,yes,No Risk
+33,0_to_200,9,all_credits_paid_back,appliances,250,less_100,unemployed,2,male,none,1,real_estate,28,none,own,1,skilled,1,none,yes,No Risk
+34,0_to_200,9,prior_payments_delayed,furniture,250,greater_1000,1_to_4,2,female,none,1,savings_insurance,45,stores,own,2,skilled,1,none,yes,No Risk
+35,0_to_200,9,prior_payments_delayed,furniture,250,less_100,less_1,1,male,none,3,savings_insurance,31,none,own,1,skilled,1,yes,yes,No Risk
+36,0_to_200,10,credits_paid_to_date,furniture,1981,less_100,1_to_4,1,female,none,1,real_estate,19,stores,rent,1,skilled,1,none,yes,No Risk
+37,0_to_200,10,credits_paid_to_date,furniture,2190,less_100,4_to_7,3,male,co-applicant,3,car_other,44,none,free,1,skilled,1,yes,yes,No Risk
+38,0_to_200,10,credits_paid_to_date,repairs,2224,less_100,4_to_7,3,male,none,3,car_other,29,none,own,1,skilled,1,none,yes,Risk
+39,0_to_200,10,no_credits,car_new,250,less_100,less_1,2,female,none,2,real_estate,22,none,own,1,skilled,1,none,yes,No Risk
+40,0_to_200,10,prior_payments_delayed,car_new,1797,greater_1000,4_to_7,3,male,none,3,savings_insurance,28,none,own,1,skilled,1,none,yes,No Risk
+41,0_to_200,10,prior_payments_delayed,car_new,3752,greater_1000,1_to_4,2,female,none,2,savings_insurance,32,bank,rent,1,unemployed,1,none,yes,No Risk
+42,0_to_200,10,prior_payments_delayed,repairs,3959,less_100,4_to_7,4,female,none,2,car_other,26,none,own,1,skilled,1,yes,yes,No Risk
+43,0_to_200,11,credits_paid_to_date,car_new,2166,500_to_1000,4_to_7,3,female,none,2,real_estate,49,none,own,2,skilled,1,none,yes,No Risk
+44,0_to_200,11,prior_payments_delayed,car_used,1965,greater_1000,greater_7,3,male,none,2,savings_insurance,53,none,own,2,skilled,2,yes,yes,Risk
+45,0_to_200,11,prior_payments_delayed,furniture,1198,less_100,4_to_7,3,male,none,2,savings_insurance,34,bank,rent,1,unskilled,1,yes,yes,No Risk
+46,0_to_200,12,credits_paid_to_date,car_new,250,less_100,4_to_7,1,female,none,3,real_estate,22,none,own,1,skilled,1,none,no,No Risk
+47,0_to_200,12,credits_paid_to_date,vacation,3349,500_to_1000,less_1,1,male,none,3,real_estate,20,none,rent,1,skilled,1,none,yes,No Risk
+48,0_to_200,12,prior_payments_delayed,retraining,1498,greater_1000,greater_7,4,female,none,2,savings_insurance,40,none,own,1,skilled,1,none,yes,No Risk
+49,0_to_200,13,all_credits_paid_back,furniture,3459,100_to_500,less_1,3,male,none,3,savings_insurance,29,none,own,2,skilled,1,none,yes,No Risk
+50,0_to_200,13,credits_paid_to_date,car_new,250,less_100,4_to_7,2,male,none,3,real_estate,19,none,own,1,skilled,1,none,yes,No Risk
+51,0_to_200,13,credits_paid_to_date,car_new,1455,500_to_1000,4_to_7,3,male,none,3,savings_insurance,51,none,own,2,skilled,1,yes,yes,Risk
+52,0_to_200,13,credits_paid_to_date,car_new,1582,less_100,less_1,2,female,co-applicant,3,car_other,44,none,own,1,skilled,1,yes,yes,Risk
+53,0_to_200,13,credits_paid_to_date,car_used,3315,less_100,less_1,3,female,none,3,real_estate,29,none,own,2,skilled,1,yes,yes,No Risk
+54,0_to_200,13,credits_paid_to_date,furniture,4511,500_to_1000,unemployed,1,male,none,2,car_other,40,stores,own,1,skilled,1,none,yes,No Risk
+55,0_to_200,13,credits_paid_to_date,vacation,2673,500_to_1000,1_to_4,2,male,none,2,real_estate,31,none,own,1,skilled,1,none,yes,No Risk
+56,0_to_200,13,prior_payments_delayed,car_new,1782,less_100,less_1,2,female,none,3,real_estate,28,none,own,2,skilled,1,none,yes,No Risk
+57,0_to_200,13,prior_payments_delayed,furniture,2735,500_to_1000,4_to_7,2,female,none,3,savings_insurance,45,stores,rent,2,skilled,1,none,yes,Risk
+58,0_to_200,13,prior_payments_delayed,radio_tv,2383,less_100,1_to_4,3,male,none,3,real_estate,28,none,own,1,management_self-employed,2,yes,yes,No Risk
+59,0_to_200,13,prior_payments_delayed,retraining,250,less_100,4_to_7,2,male,none,3,savings_insurance,27,none,own,1,skilled,1,none,yes,Risk
+60,0_to_200,13,prior_payments_delayed,retraining,4701,100_to_500,greater_7,4,male,none,3,car_other,36,none,own,2,skilled,1,yes,yes,Risk
+61,0_to_200,14,all_credits_paid_back,car_used,3072,less_100,1_to_4,3,female,none,3,real_estate,30,none,rent,1,management_self-employed,1,none,yes,No Risk
+62,0_to_200,14,credits_paid_to_date,car_new,1711,less_100,less_1,3,female,none,2,real_estate,30,none,rent,1,skilled,1,none,yes,No Risk
+63,0_to_200,14,credits_paid_to_date,car_new,2055,less_100,4_to_7,3,male,none,2,savings_insurance,33,none,own,1,skilled,1,none,yes,No Risk
+64,0_to_200,14,credits_paid_to_date,car_new,2652,less_100,less_1,3,male,none,3,savings_insurance,32,none,own,1,skilled,1,none,yes,No Risk
+65,0_to_200,14,credits_paid_to_date,car_new,3148,less_100,1_to_4,3,male,none,3,car_other,41,none,own,2,skilled,1,none,yes,No Risk
+66,0_to_200,14,credits_paid_to_date,car_new,4364,100_to_500,4_to_7,4,male,none,4,savings_insurance,32,none,own,1,skilled,1,none,yes,No Risk
+67,0_to_200,14,credits_paid_to_date,car_used,1397,500_to_1000,less_1,2,male,none,3,car_other,46,none,own,2,skilled,1,yes,yes,No Risk
+68,0_to_200,14,credits_paid_to_date,furniture,250,less_100,1_to_4,2,female,none,2,real_estate,30,none,own,1,skilled,1,none,yes,No Risk
+69,0_to_200,14,credits_paid_to_date,furniture,1252,less_100,less_1,3,female,none,3,car_other,29,none,own,1,skilled,1,none,yes,No Risk
+70,0_to_200,14,credits_paid_to_date,vacation,678,500_to_1000,4_to_7,3,female,none,3,savings_insurance,38,stores,rent,1,unskilled,1,none,yes,No Risk
+71,0_to_200,14,prior_payments_delayed,car_new,2609,less_100,4_to_7,4,male,none,2,savings_insurance,33,bank,rent,1,unskilled,1,yes,yes,No Risk
+72,0_to_200,14,prior_payments_delayed,furniture,5834,greater_1000,4_to_7,3,male,none,4,savings_insurance,32,none,rent,1,management_self-employed,1,none,yes,Risk
+73,0_to_200,14,prior_payments_delayed,radio_tv,3656,less_100,1_to_4,3,male,none,4,car_other,47,none,rent,1,management_self-employed,1,none,yes,No Risk
+74,0_to_200,14,prior_payments_delayed,radio_tv,4067,greater_1000,4_to_7,3,male,none,3,car_other,36,none,rent,2,management_self-employed,1,none,yes,No Risk
+75,0_to_200,15,all_credits_paid_back,car_new,1380,100_to_500,less_1,2,female,none,2,real_estate,24,none,rent,1,skilled,1,none,yes,No Risk
+76,0_to_200,15,credits_paid_to_date,car_new,250,less_100,less_1,2,female,none,3,savings_insurance,21,none,own,1,skilled,1,none,yes,Risk
+77,0_to_200,15,credits_paid_to_date,car_new,805,500_to_1000,less_1,2,male,none,3,real_estate,33,stores,own,2,skilled,1,none,yes,No Risk
+78,0_to_200,15,credits_paid_to_date,car_new,2701,500_to_1000,less_1,2,male,none,2,real_estate,31,none,own,2,skilled,1,yes,yes,No Risk
+79,0_to_200,15,credits_paid_to_date,car_new,2816,500_to_1000,1_to_4,3,male,none,4,car_other,27,none,rent,2,skilled,1,none,yes,Risk
+80,0_to_200,15,credits_paid_to_date,vacation,3714,less_100,4_to_7,4,female,none,3,car_other,42,bank,own,1,unskilled,1,none,yes,No Risk
+81,0_to_200,15,no_credits,car_new,2949,100_to_500,1_to_4,2,male,none,3,car_other,37,none,own,2,skilled,1,yes,yes,No Risk
+82,0_to_200,15,no_credits,car_used,1671,less_100,unemployed,2,female,none,2,real_estate,19,none,rent,1,skilled,1,none,yes,No Risk
+83,0_to_200,15,no_credits,car_used,3626,less_100,unemployed,2,male,none,1,savings_insurance,22,none,own,1,skilled,1,none,yes,No Risk
+84,0_to_200,15,prior_payments_delayed,furniture,250,500_to_1000,4_to_7,3,male,none,2,savings_insurance,24,none,own,2,skilled,2,yes,yes,No Risk
+85,0_to_200,15,prior_payments_delayed,radio_tv,1801,less_100,4_to_7,3,male,co-applicant,2,car_other,44,none,own,2,skilled,1,yes,yes,No Risk
+86,0_to_200,15,prior_payments_delayed,retraining,1186,less_100,1_to_4,3,male,none,2,real_estate,19,none,own,1,skilled,1,yes,yes,No Risk
+87,0_to_200,15,prior_payments_delayed,retraining,4312,less_100,1_to_4,3,female,co-applicant,1,savings_insurance,44,stores,own,2,unskilled,1,none,yes,No Risk
+88,0_to_200,16,credits_paid_to_date,appliances,250,less_100,less_1,3,female,none,1,real_estate,19,none,own,1,skilled,1,none,yes,No Risk
+89,0_to_200,16,credits_paid_to_date,appliances,1443,100_to_500,1_to_4,1,male,none,1,savings_insurance,39,none,own,2,skilled,1,none,yes,Risk
+90,0_to_200,16,credits_paid_to_date,car_new,250,less_100,less_1,2,female,none,3,savings_insurance,27,bank,rent,1,unskilled,1,none,yes,No Risk
+91,0_to_200,16,credits_paid_to_date,car_new,250,less_100,less_1,3,female,none,2,real_estate,26,bank,rent,1,unemployed,1,none,yes,No Risk
+92,0_to_200,16,credits_paid_to_date,car_new,3181,less_100,4_to_7,3,male,none,2,car_other,40,none,own,2,skilled,1,none,no,No Risk
+93,0_to_200,16,credits_paid_to_date,car_used,993,500_to_1000,less_1,2,male,none,2,car_other,27,none,own,1,skilled,1,none,yes,No Risk
+94,0_to_200,16,credits_paid_to_date,car_used,3831,100_to_500,1_to_4,2,female,none,2,car_other,43,none,rent,1,skilled,2,none,yes,Risk
+95,0_to_200,16,credits_paid_to_date,car_used,4801,less_100,1_to_4,3,female,none,3,car_other,35,none,own,1,skilled,1,none,yes,Risk
+96,0_to_200,16,credits_paid_to_date,furniture,1524,less_100,less_1,1,female,none,1,savings_insurance,36,stores,own,1,skilled,1,none,yes,No Risk
+97,0_to_200,16,credits_paid_to_date,furniture,3196,less_100,1_to_4,3,male,co-applicant,3,real_estate,40,none,own,2,skilled,1,yes,yes,Risk
+98,0_to_200,16,prior_payments_delayed,car_used,3083,500_to_1000,greater_7,4,male,none,3,savings_insurance,37,none,own,2,skilled,1,none,yes,Risk
+99,0_to_200,16,prior_payments_delayed,furniture,1948,100_to_500,4_to_7,3,male,none,4,savings_insurance,36,bank,own,1,unskilled,1,none,yes,No Risk
+100,0_to_200,16,prior_payments_delayed,furniture,2997,less_100,4_to_7,4,male,none,3,savings_insurance,26,none,free,2,management_self-employed,1,none,yes,No Risk
+101,0_to_200,16,prior_payments_delayed,radio_tv,250,100_to_500,4_to_7,2,female,none,2,savings_insurance,21,stores,own,1,skilled,1,yes,yes,No Risk
+102,0_to_200,16,prior_payments_delayed,radio_tv,1923,100_to_500,less_1,3,female,none,2,car_other,46,none,rent,1,skilled,2,none,yes,Risk
+103,0_to_200,16,prior_payments_delayed,radio_tv,2321,less_100,less_1,2,female,none,2,car_other,39,bank,rent,1,unemployed,1,none,yes,No Risk
+104,0_to_200,17,all_credits_paid_back,vacation,1862,less_100,less_1,3,male,co-applicant,1,real_estate,19,none,own,1,skilled,1,yes,yes,No Risk
+105,0_to_200,17,credits_paid_to_date,car_new,250,less_100,less_1,1,female,none,1,real_estate,27,none,own,1,skilled,1,none,yes,No Risk
+106,0_to_200,17,credits_paid_to_date,car_new,290,500_to_1000,less_1,2,female,none,2,savings_insurance,36,none,own,2,skilled,1,none,yes,Risk
+107,0_to_200,17,credits_paid_to_date,car_new,2154,less_100,4_to_7,2,female,none,3,savings_insurance,35,bank,rent,1,unemployed,1,none,yes,Risk
+108,0_to_200,17,credits_paid_to_date,car_new,3321,less_100,unemployed,3,female,none,3,savings_insurance,30,none,own,2,skilled,1,yes,yes,No Risk
+109,0_to_200,17,credits_paid_to_date,car_new,6382,500_to_1000,4_to_7,3,male,none,2,car_other,32,none,own,3,skilled,1,none,yes,No Risk
+110,0_to_200,17,credits_paid_to_date,car_used,1718,less_100,1_to_4,1,female,none,3,real_estate,27,stores,own,1,skilled,1,none,yes,No Risk
+111,0_to_200,17,credits_paid_to_date,car_used,1842,less_100,less_1,3,female,none,2,savings_insurance,40,bank,rent,2,unemployed,1,yes,yes,No Risk
+112,0_to_200,17,credits_paid_to_date,car_used,3807,less_100,4_to_7,3,male,none,1,savings_insurance,30,none,own,1,skilled,1,yes,yes,No Risk
+113,0_to_200,17,credits_paid_to_date,car_used,5772,less_100,4_to_7,2,male,none,3,car_other,31,stores,own,1,skilled,1,yes,yes,Risk
+114,0_to_200,17,credits_paid_to_date,furniture,5071,less_100,1_to_4,3,male,none,2,savings_insurance,38,none,own,1,skilled,2,yes,yes,No Risk
+115,0_to_200,17,credits_paid_to_date,retraining,4853,500_to_1000,4_to_7,4,female,none,3,savings_insurance,34,none,own,1,skilled,1,none,yes,No Risk
+116,0_to_200,17,prior_payments_delayed,car_new,337,500_to_1000,1_to_4,3,female,none,3,savings_insurance,36,none,own,1,skilled,1,none,yes,No Risk
+117,0_to_200,17,prior_payments_delayed,car_used,2436,100_to_500,4_to_7,3,female,none,2,savings_insurance,34,none,own,1,skilled,1,yes,yes,No Risk
+118,0_to_200,17,prior_payments_delayed,education,2789,100_to_500,4_to_7,4,male,co-applicant,4,savings_insurance,38,none,own,1,skilled,1,yes,yes,No Risk
+119,0_to_200,17,prior_payments_delayed,radio_tv,250,100_to_500,greater_7,3,female,none,2,savings_insurance,23,bank,own,1,unemployed,1,none,yes,No Risk
+120,0_to_200,17,prior_payments_delayed,radio_tv,5663,greater_1000,4_to_7,3,male,none,3,unknown,40,bank,own,3,unemployed,2,yes,yes,No Risk
+121,0_to_200,17,prior_payments_delayed,repairs,4339,less_100,1_to_4,3,male,none,3,savings_insurance,44,stores,own,2,skilled,1,none,yes,No Risk
+122,0_to_200,17,prior_payments_delayed,vacation,3007,less_100,1_to_4,3,male,none,3,car_other,42,none,own,1,management_self-employed,2,yes,yes,No Risk
+123,0_to_200,18,all_credits_paid_back,vacation,1800,500_to_1000,less_1,3,female,none,1,real_estate,25,none,rent,1,skilled,2,none,yes,No Risk
+124,0_to_200,18,all_credits_paid_back,vacation,1849,100_to_500,1_to_4,2,female,none,1,car_other,19,stores,rent,1,unskilled,1,none,yes,No Risk
+125,0_to_200,18,credits_paid_to_date,furniture,2949,500_to_1000,1_to_4,3,male,none,3,savings_insurance,33,bank,rent,2,unskilled,1,none,yes,No Risk
+126,0_to_200,18,prior_payments_delayed,furniture,3309,100_to_500,greater_7,2,male,none,3,car_other,35,none,own,1,skilled,1,yes,yes,No Risk
+127,0_to_200,18,prior_payments_delayed,retraining,3140,100_to_500,greater_7,3,female,none,2,savings_insurance,38,bank,own,2,unemployed,1,yes,yes,No Risk
+128,0_to_200,18,prior_payments_delayed,retraining,7506,500_to_1000,1_to_4,3,male,none,3,unknown,46,none,free,3,skilled,1,yes,yes,Risk
+129,0_to_200,19,all_credits_paid_back,car_new,250,less_100,4_to_7,3,female,none,3,savings_insurance,25,stores,own,1,skilled,1,none,yes,No Risk
+130,0_to_200,19,all_credits_paid_back,furniture,4398,less_100,less_1,3,male,none,3,car_other,30,bank,own,1,unskilled,1,yes,yes,No Risk
+131,0_to_200,19,credits_paid_to_date,car_used,2660,500_to_1000,4_to_7,3,female,none,3,savings_insurance,34,none,own,1,skilled,1,none,yes,Risk
+132,0_to_200,19,credits_paid_to_date,furniture,3202,less_100,1_to_4,3,female,none,3,savings_insurance,30,none,own,2,skilled,1,none,yes,Risk
+133,0_to_200,19,credits_paid_to_date,repairs,1531,100_to_500,4_to_7,3,male,none,3,real_estate,32,stores,own,2,unskilled,1,yes,yes,Risk
+134,0_to_200,19,credits_paid_to_date,repairs,1993,less_100,1_to_4,2,male,none,2,savings_insurance,31,none,own,1,skilled,1,yes,yes,No Risk
+135,0_to_200,19,credits_paid_to_date,repairs,2083,500_to_1000,less_1,3,female,none,2,real_estate,35,none,own,1,skilled,1,none,yes,No Risk
+136,0_to_200,19,credits_paid_to_date,retraining,5368,less_100,4_to_7,3,female,none,1,unknown,42,none,own,1,skilled,2,none,yes,No Risk
+137,0_to_200,19,prior_payments_delayed,car_used,4185,greater_1000,4_to_7,4,male,co-applicant,4,car_other,39,none,own,2,skilled,1,yes,yes,No Risk
+138,0_to_200,19,prior_payments_delayed,car_used,4215,100_to_500,1_to_4,3,female,none,2,savings_insurance,40,none,own,1,skilled,1,none,yes,No Risk
+139,0_to_200,19,prior_payments_delayed,furniture,436,greater_1000,greater_7,4,male,none,4,car_other,22,bank,rent,2,unskilled,1,none,yes,No Risk
+140,0_to_200,19,prior_payments_delayed,radio_tv,358,100_to_500,greater_7,3,female,none,2,car_other,40,none,own,2,skilled,1,none,yes,No Risk
+141,0_to_200,19,prior_payments_delayed,retraining,3944,100_to_500,1_to_4,2,female,none,2,car_other,43,none,own,2,skilled,1,none,yes,No Risk
+142,0_to_200,20,all_credits_paid_back,vacation,2294,less_100,4_to_7,3,female,none,3,savings_insurance,32,none,own,1,skilled,1,none,no,No Risk
+143,0_to_200,20,credits_paid_to_date,car_new,4183,500_to_1000,1_to_4,2,male,none,3,car_other,21,none,own,1,skilled,2,yes,yes,No Risk
+144,0_to_200,20,credits_paid_to_date,car_used,2454,less_100,1_to_4,2,male,none,3,savings_insurance,37,none,own,2,skilled,1,yes,yes,Risk
+145,0_to_200,20,credits_paid_to_date,furniture,1958,500_to_1000,1_to_4,3,female,none,1,real_estate,47,stores,own,2,unskilled,1,none,yes,No Risk
+146,0_to_200,20,credits_paid_to_date,furniture,3198,less_100,1_to_4,3,male,none,3,car_other,35,none,own,1,management_self-employed,1,none,yes,No Risk
+147,0_to_200,20,credits_paid_to_date,furniture,4787,less_100,4_to_7,2,male,none,3,savings_insurance,32,none,own,2,skilled,1,none,no,No Risk
+148,0_to_200,20,credits_paid_to_date,repairs,2654,500_to_1000,less_1,2,male,none,3,savings_insurance,26,none,own,1,skilled,2,none,yes,No Risk
+149,0_to_200,20,credits_paid_to_date,retraining,1241,100_to_500,1_to_4,2,male,none,1,car_other,19,stores,rent,1,unskilled,1,none,yes,Risk
+150,0_to_200,20,prior_payments_delayed,radio_tv,2295,500_to_1000,greater_7,4,male,none,3,savings_insurance,39,none,own,1,skilled,1,yes,yes,No Risk
+151,0_to_200,21,credits_paid_to_date,car_new,2638,less_100,1_to_4,3,male,none,3,savings_insurance,27,none,own,2,skilled,1,yes,yes,Risk
+152,0_to_200,21,credits_paid_to_date,radio_tv,1576,greater_1000,4_to_7,3,male,none,2,real_estate,44,none,own,2,skilled,1,none,yes,No Risk
+153,0_to_200,21,credits_paid_to_date,radio_tv,3780,less_100,1_to_4,3,male,none,2,savings_insurance,33,none,rent,1,skilled,1,none,yes,No Risk
+154,0_to_200,21,credits_paid_to_date,repairs,3341,less_100,1_to_4,2,female,none,3,car_other,31,stores,own,1,skilled,1,none,yes,Risk
+155,0_to_200,21,outstanding_credit,business,2900,100_to_500,1_to_4,4,male,none,3,unknown,49,none,own,2,skilled,2,yes,yes,No Risk
+156,0_to_200,21,outstanding_credit,car_used,2275,100_to_500,4_to_7,3,male,none,4,car_other,44,stores,rent,1,skilled,2,yes,yes,No Risk
+157,0_to_200,21,outstanding_credit,car_used,5162,100_to_500,1_to_4,2,female,none,3,savings_insurance,40,bank,own,1,unemployed,1,yes,yes,No Risk
+158,0_to_200,21,outstanding_credit,furniture,4839,greater_1000,greater_7,4,male,none,2,car_other,43,none,own,2,skilled,2,none,yes,No Risk
+159,0_to_200,21,outstanding_credit,radio_tv,3109,100_to_500,greater_7,4,male,none,4,unknown,40,none,own,2,skilled,1,yes,no,Risk
+160,0_to_200,21,outstanding_credit,radio_tv,6826,greater_1000,greater_7,4,male,none,3,car_other,34,none,own,2,skilled,1,yes,yes,No Risk
+161,0_to_200,21,prior_payments_delayed,retraining,5308,greater_1000,greater_7,3,male,none,3,unknown,40,none,own,2,skilled,1,none,yes,No Risk
+162,0_to_200,22,credits_paid_to_date,car_new,250,less_100,1_to_4,1,male,none,1,real_estate,33,stores,own,1,unskilled,1,none,yes,No Risk
+163,0_to_200,22,credits_paid_to_date,car_new,592,less_100,less_1,1,female,none,3,savings_insurance,20,stores,own,1,skilled,1,none,yes,No Risk
+164,0_to_200,22,credits_paid_to_date,furniture,2244,greater_1000,4_to_7,3,male,none,4,car_other,32,none,rent,1,skilled,1,none,yes,Risk
+165,0_to_200,22,credits_paid_to_date,radio_tv,250,100_to_500,4_to_7,2,female,none,2,car_other,48,stores,own,2,skilled,1,none,yes,No Risk
+166,0_to_200,22,credits_paid_to_date,radio_tv,2349,100_to_500,less_1,2,male,none,3,savings_insurance,31,none,own,1,skilled,2,none,yes,No Risk
+167,0_to_200,22,credits_paid_to_date,radio_tv,2441,less_100,1_to_4,3,male,none,3,savings_insurance,30,none,rent,1,skilled,1,none,yes,Risk
+168,0_to_200,22,credits_paid_to_date,radio_tv,2847,500_to_1000,1_to_4,3,female,none,3,real_estate,33,none,own,2,skilled,2,yes,yes,Risk
+169,0_to_200,22,outstanding_credit,car_used,3415,100_to_500,greater_7,2,male,none,2,car_other,37,bank,own,1,unemployed,1,yes,yes,No Risk
+170,0_to_200,22,prior_payments_delayed,appliances,2596,greater_1000,1_to_4,3,female,none,3,car_other,36,none,own,2,skilled,1,yes,no,Risk
+171,0_to_200,22,prior_payments_delayed,car_used,426,100_to_500,less_1,3,male,none,1,savings_insurance,37,bank,rent,1,unskilled,1,none,yes,No Risk
+172,0_to_200,23,credits_paid_to_date,car_used,2641,less_100,4_to_7,3,male,none,2,real_estate,33,none,own,2,skilled,1,yes,yes,No Risk
+173,0_to_200,23,credits_paid_to_date,car_used,3103,greater_1000,4_to_7,3,female,none,1,savings_insurance,37,stores,own,1,unskilled,1,none,yes,No Risk
+174,0_to_200,23,credits_paid_to_date,radio_tv,6649,less_100,4_to_7,4,female,none,3,car_other,28,none,own,2,skilled,1,none,yes,No Risk
+175,0_to_200,23,outstanding_credit,business,3452,greater_1000,1_to_4,3,male,none,3,car_other,30,none,own,1,management_self-employed,1,none,yes,No Risk
+176,0_to_200,23,outstanding_credit,car_used,2581,100_to_500,less_1,3,male,none,2,savings_insurance,41,none,own,1,skilled,2,yes,yes,No Risk
+177,0_to_200,23,outstanding_credit,car_used,3747,100_to_500,1_to_4,2,female,none,3,car_other,40,none,rent,1,skilled,1,none,yes,No Risk
+178,0_to_200,23,outstanding_credit,car_used,3983,100_to_500,4_to_7,4,female,none,4,car_other,26,stores,own,1,unskilled,1,none,yes,No Risk
+179,0_to_200,23,prior_payments_delayed,car_used,5851,less_100,1_to_4,4,female,none,3,unknown,47,none,own,2,skilled,1,none,yes,No Risk
+180,0_to_200,23,prior_payments_delayed,radio_tv,1060,100_to_500,4_to_7,2,male,none,2,car_other,44,none,free,1,skilled,1,yes,yes,No Risk
+181,0_to_200,24,all_credits_paid_back,appliances,3822,500_to_1000,4_to_7,4,male,none,2,car_other,30,none,own,1,skilled,1,none,yes,No Risk
+182,0_to_200,24,all_credits_paid_back,furniture,5795,less_100,less_1,3,male,none,2,car_other,25,none,own,1,skilled,2,yes,yes,No Risk
+183,0_to_200,24,all_credits_paid_back,vacation,6401,less_100,less_1,3,male,none,4,car_other,25,none,own,1,management_self-employed,1,yes,yes,No Risk
+184,0_to_200,24,credits_paid_to_date,furniture,4031,less_100,1_to_4,3,male,none,2,car_other,19,none,own,1,skilled,1,none,yes,Risk
+185,0_to_200,24,credits_paid_to_date,radio_tv,1917,less_100,4_to_7,2,male,none,2,car_other,27,none,rent,1,skilled,1,yes,yes,No Risk
+186,0_to_200,24,outstanding_credit,appliances,881,100_to_500,1_to_4,2,male,none,3,car_other,36,none,own,2,skilled,1,none,yes,Risk
+187,0_to_200,24,outstanding_credit,business,3119,100_to_500,greater_7,4,male,none,4,unknown,41,none,own,2,skilled,1,none,yes,No Risk
+188,0_to_200,25,all_credits_paid_back,radio_tv,2429,500_to_1000,1_to_4,3,male,none,3,savings_insurance,29,none,own,1,skilled,1,none,yes,No Risk
+189,0_to_200,25,credits_paid_to_date,car_new,2021,500_to_1000,1_to_4,3,male,none,3,car_other,38,none,rent,1,skilled,1,none,yes,No Risk
+190,0_to_200,25,credits_paid_to_date,car_new,2750,less_100,less_1,1,male,none,2,real_estate,38,none,own,1,skilled,2,yes,yes,No Risk
+191,0_to_200,25,credits_paid_to_date,car_new,3027,less_100,1_to_4,3,male,none,2,savings_insurance,31,none,own,1,skilled,2,yes,yes,No Risk
+192,0_to_200,25,credits_paid_to_date,car_new,3523,less_100,1_to_4,3,male,co-applicant,4,real_estate,33,none,own,1,skilled,1,yes,yes,No Risk
+193,0_to_200,25,credits_paid_to_date,furniture,3468,greater_1000,1_to_4,3,male,none,3,savings_insurance,27,bank,rent,1,unskilled,2,none,yes,No Risk
+194,0_to_200,25,credits_paid_to_date,furniture,3716,100_to_500,1_to_4,3,male,none,3,savings_insurance,33,none,own,2,skilled,1,yes,yes,No Risk
+195,0_to_200,25,credits_paid_to_date,furniture,3908,less_100,1_to_4,2,male,none,3,savings_insurance,36,bank,own,1,unskilled,2,yes,yes,No Risk
+196,0_to_200,25,credits_paid_to_date,radio_tv,2092,less_100,less_1,1,male,none,2,savings_insurance,28,none,own,1,skilled,1,none,yes,No Risk
+197,0_to_200,25,credits_paid_to_date,radio_tv,3009,less_100,4_to_7,3,male,none,1,car_other,23,none,own,1,skilled,1,none,yes,Risk
+198,0_to_200,25,credits_paid_to_date,radio_tv,4535,100_to_500,less_1,2,male,none,3,unknown,31,none,own,1,skilled,1,none,yes,No Risk
+199,0_to_200,25,outstanding_credit,appliances,5049,greater_1000,greater_7,3,male,none,3,car_other,54,none,own,2,skilled,1,none,yes,No Risk
+200,0_to_200,25,outstanding_credit,other,3411,500_to_1000,1_to_4,4,male,co-applicant,2,car_other,43,bank,own,2,unemployed,1,yes,yes,No Risk
+201,0_to_200,25,prior_payments_delayed,business,3037,100_to_500,greater_7,4,male,none,4,savings_insurance,35,none,own,1,management_self-employed,1,none,yes,Risk
+202,0_to_200,26,credits_paid_to_date,car_used,3052,less_100,4_to_7,3,female,none,3,savings_insurance,45,none,free,2,skilled,1,none,yes,Risk
+203,0_to_200,26,credits_paid_to_date,radio_tv,2553,less_100,1_to_4,3,male,none,2,car_other,37,none,own,2,skilled,1,none,yes,No Risk
+204,0_to_200,26,credits_paid_to_date,radio_tv,2772,less_100,4_to_7,3,female,none,1,savings_insurance,34,none,own,1,skilled,1,none,yes,Risk
+205,0_to_200,26,credits_paid_to_date,radio_tv,3916,greater_1000,1_to_4,2,female,co-applicant,2,savings_insurance,42,stores,free,3,unskilled,1,yes,no,No Risk
+206,0_to_200,26,credits_paid_to_date,retraining,3994,less_100,less_1,3,male,none,2,car_other,28,none,own,1,skilled,1,none,yes,No Risk
+207,0_to_200,26,outstanding_credit,appliances,4474,100_to_500,greater_7,4,male,none,4,savings_insurance,44,none,own,1,skilled,1,none,yes,No Risk
+208,0_to_200,26,outstanding_credit,furniture,2979,500_to_1000,4_to_7,2,male,none,3,car_other,38,stores,own,1,skilled,1,yes,yes,No Risk
+209,0_to_200,26,prior_payments_delayed,car_used,2309,100_to_500,1_to_4,3,female,co-applicant,2,car_other,37,stores,own,2,unskilled,1,yes,yes,Risk
+210,0_to_200,27,credits_paid_to_date,radio_tv,3411,less_100,less_1,3,male,none,3,car_other,32,none,own,1,skilled,1,none,yes,No Risk
+211,0_to_200,27,outstanding_credit,business,7115,500_to_1000,greater_7,3,male,none,3,unknown,42,none,own,2,skilled,1,yes,yes,No Risk
+212,0_to_200,27,outstanding_credit,car_used,4541,100_to_500,less_1,2,male,none,4,unknown,42,none,own,2,skilled,2,yes,yes,Risk
+213,0_to_200,27,outstanding_credit,furniture,2828,500_to_1000,greater_7,3,male,none,2,savings_insurance,38,stores,own,1,skilled,1,none,yes,No Risk
+214,0_to_200,28,credits_paid_to_date,furniture,5361,100_to_500,1_to_4,3,male,none,2,car_other,37,stores,own,1,unskilled,1,none,yes,Risk
+215,0_to_200,28,credits_paid_to_date,radio_tv,250,100_to_500,4_to_7,2,male,none,2,real_estate,19,stores,own,1,skilled,1,none,yes,No Risk
+216,0_to_200,28,credits_paid_to_date,radio_tv,337,100_to_500,less_1,1,female,none,2,car_other,21,stores,own,1,skilled,1,none,yes,No Risk
+217,0_to_200,28,credits_paid_to_date,radio_tv,1224,100_to_500,less_1,1,female,none,3,car_other,32,bank,rent,1,unskilled,1,none,yes,Risk
+218,0_to_200,28,outstanding_credit,business,4776,unknown,greater_7,5,female,none,3,unknown,46,none,free,2,skilled,1,none,yes,Risk
+219,0_to_200,28,outstanding_credit,car_used,3720,greater_1000,greater_7,4,female,none,4,car_other,38,none,own,2,skilled,1,none,no,Risk
+220,0_to_200,28,prior_payments_delayed,car_used,3952,greater_1000,greater_7,4,male,none,4,savings_insurance,36,none,own,2,skilled,1,none,yes,No Risk
+221,0_to_200,29,credits_paid_to_date,education,3458,less_100,less_1,2,male,none,2,car_other,45,stores,rent,1,skilled,1,none,yes,Risk
+222,0_to_200,29,credits_paid_to_date,furniture,4897,less_100,1_to_4,2,male,none,3,savings_insurance,19,none,own,1,skilled,1,none,yes,Risk
+223,0_to_200,29,credits_paid_to_date,radio_tv,250,100_to_500,1_to_4,3,male,co-applicant,3,real_estate,27,none,own,1,skilled,1,none,yes,No Risk
+224,0_to_200,29,outstanding_credit,appliances,6614,100_to_500,greater_7,4,male,none,4,car_other,37,none,free,2,management_self-employed,1,yes,yes,No Risk
+225,0_to_200,29,outstanding_credit,radio_tv,2078,100_to_500,4_to_7,4,male,none,4,savings_insurance,27,none,own,1,skilled,1,yes,yes,No Risk
+226,0_to_200,29,outstanding_credit,radio_tv,4193,100_to_500,4_to_7,4,male,none,4,savings_insurance,39,bank,own,2,unskilled,1,yes,yes,No Risk
+227,0_to_200,30,credits_paid_to_date,furniture,250,100_to_500,4_to_7,3,male,none,2,real_estate,19,none,own,1,skilled,1,none,yes,Risk
+228,0_to_200,30,credits_paid_to_date,furniture,2249,100_to_500,less_1,3,male,none,3,savings_insurance,33,none,own,1,skilled,1,yes,yes,Risk
+229,0_to_200,30,credits_paid_to_date,furniture,3454,greater_1000,greater_7,3,male,none,2,savings_insurance,33,stores,own,2,unskilled,1,none,yes,Risk
+230,0_to_200,30,credits_paid_to_date,radio_tv,2368,100_to_500,4_to_7,3,male,none,3,real_estate,33,none,rent,1,skilled,1,none,yes,No Risk
+231,0_to_200,30,outstanding_credit,vacation,3541,100_to_500,4_to_7,4,male,none,4,car_other,33,stores,rent,2,unskilled,1,none,yes,No Risk
+232,0_to_200,30,prior_payments_delayed,radio_tv,982,500_to_1000,4_to_7,4,male,none,3,car_other,42,bank,own,1,unemployed,1,yes,yes,Risk
+233,0_to_200,31,outstanding_credit,furniture,5702,100_to_500,greater_7,3,female,none,4,unknown,47,none,own,2,skilled,1,yes,yes,Risk
+234,0_to_200,32,credits_paid_to_date,appliances,3885,100_to_500,4_to_7,4,male,none,4,car_other,36,none,own,1,skilled,1,yes,yes,No Risk
+235,0_to_200,32,credits_paid_to_date,business,4766,less_100,1_to_4,4,male,none,4,savings_insurance,30,stores,rent,2,unskilled,2,none,yes,No Risk
+236,0_to_200,32,credits_paid_to_date,car_used,3862,100_to_500,less_1,2,male,none,2,savings_insurance,24,bank,rent,1,unemployed,1,yes,yes,No Risk
+237,0_to_200,32,credits_paid_to_date,car_used,4186,100_to_500,greater_7,4,female,none,2,savings_insurance,41,none,own,2,skilled,1,none,yes,No Risk
+238,0_to_200,32,credits_paid_to_date,other,2909,greater_1000,4_to_7,4,female,none,3,car_other,35,none,own,2,skilled,2,yes,yes,No Risk
+239,0_to_200,32,credits_paid_to_date,radio_tv,4593,500_to_1000,4_to_7,4,male,none,3,car_other,34,none,free,2,skilled,1,none,yes,Risk
+240,0_to_200,32,credits_paid_to_date,radio_tv,5038,less_100,4_to_7,4,male,none,4,car_other,37,none,own,3,skilled,1,none,yes,Risk
+241,0_to_200,32,credits_paid_to_date,radio_tv,5062,100_to_500,1_to_4,2,female,none,2,savings_insurance,33,stores,own,2,unskilled,1,none,yes,No Risk
+242,0_to_200,33,outstanding_credit,radio_tv,4296,500_to_1000,greater_7,4,male,none,2,unknown,42,stores,own,2,unskilled,1,none,yes,No Risk
+243,0_to_200,33,outstanding_credit,vacation,1006,500_to_1000,4_to_7,4,male,none,3,car_other,26,none,own,2,skilled,1,none,yes,No Risk
+244,0_to_200,33,outstanding_credit,vacation,5848,100_to_500,1_to_4,4,female,guarantor,4,unknown,43,none,free,2,skilled,1,yes,yes,Risk
+245,0_to_200,33,prior_payments_delayed,appliances,2641,100_to_500,4_to_7,4,male,none,3,real_estate,36,stores,own,1,unskilled,2,yes,yes,No Risk
+246,0_to_200,34,outstanding_credit,furniture,3789,500_to_1000,greater_7,4,male,none,3,unknown,47,none,free,2,skilled,1,yes,yes,No Risk
+247,0_to_200,34,outstanding_credit,repairs,4593,unknown,1_to_4,3,male,none,2,savings_insurance,39,stores,own,2,unskilled,1,none,yes,No Risk
+248,0_to_200,34,prior_payments_delayed,appliances,4508,100_to_500,4_to_7,4,female,none,4,savings_insurance,35,none,own,2,skilled,1,none,yes,Risk
+249,0_to_200,34,prior_payments_delayed,radio_tv,6163,100_to_500,1_to_4,4,male,none,3,savings_insurance,33,none,own,2,skilled,1,none,yes,No Risk
+250,0_to_200,35,credits_paid_to_date,business,3740,greater_1000,1_to_4,3,male,none,3,car_other,19,none,own,2,skilled,1,none,yes,No Risk
+251,0_to_200,35,credits_paid_to_date,car_used,5521,100_to_500,1_to_4,2,male,none,3,car_other,38,none,own,2,skilled,1,none,yes,No Risk
+252,0_to_200,35,credits_paid_to_date,retraining,3810,less_100,4_to_7,3,female,co-applicant,2,unknown,43,stores,own,1,skilled,1,none,yes,No Risk
+253,0_to_200,35,outstanding_credit,repairs,3419,unknown,greater_7,4,female,none,4,car_other,40,none,own,2,skilled,1,yes,yes,Risk
+254,0_to_200,35,prior_payments_delayed,appliances,3497,greater_1000,less_1,3,female,none,3,car_other,28,none,own,1,skilled,1,none,yes,No Risk
+255,0_to_200,35,prior_payments_delayed,vacation,956,500_to_1000,4_to_7,4,male,co-applicant,3,savings_insurance,39,stores,own,1,unskilled,1,yes,yes,No Risk
+256,0_to_200,36,credits_paid_to_date,appliances,7469,less_100,1_to_4,3,male,none,4,car_other,29,none,own,1,skilled,2,none,yes,No Risk
+257,0_to_200,37,prior_payments_delayed,appliances,4771,500_to_1000,greater_7,3,female,none,4,car_other,39,none,own,2,skilled,1,yes,yes,Risk
+258,0_to_200,38,prior_payments_delayed,furniture,5246,500_to_1000,4_to_7,3,male,none,4,savings_insurance,39,stores,free,2,unskilled,1,none,yes,No Risk
+259,0_to_200,41,credits_paid_to_date,radio_tv,4307,100_to_500,4_to_7,3,male,none,2,savings_insurance,19,none,own,2,skilled,2,yes,yes,No Risk
+260,0_to_200,42,outstanding_credit,appliances,3709,500_to_1000,greater_7,4,female,none,4,unknown,51,stores,own,1,unskilled,1,none,yes,Risk
+261,0_to_200,42,outstanding_credit,radio_tv,6983,500_to_1000,greater_7,5,male,co-applicant,3,unknown,42,stores,own,2,unskilled,1,yes,yes,Risk
+262,0_to_200,42,prior_payments_delayed,appliances,2760,100_to_500,4_to_7,3,male,none,2,car_other,34,bank,own,1,unemployed,1,yes,yes,Risk
+263,0_to_200,44,prior_payments_delayed,repairs,6621,500_to_1000,greater_7,5,male,none,3,unknown,35,bank,own,2,unemployed,1,none,yes,No Risk
+264,greater_200,4,all_credits_paid_back,car_new,2177,less_100,1_to_4,2,female,none,3,savings_insurance,36,none,own,1,management_self-employed,1,yes,yes,No Risk
+265,greater_200,4,prior_payments_delayed,repairs,1289,less_100,1_to_4,3,female,co-applicant,4,real_estate,50,none,own,1,skilled,1,yes,yes,No Risk
+266,greater_200,6,credits_paid_to_date,car_new,250,less_100,4_to_7,2,female,none,3,real_estate,20,bank,rent,1,unemployed,1,none,yes,No Risk
+267,greater_200,6,credits_paid_to_date,car_new,3553,less_100,1_to_4,3,male,none,4,savings_insurance,26,none,own,1,management_self-employed,1,none,yes,No Risk
+268,greater_200,9,credits_paid_to_date,appliances,938,less_100,4_to_7,3,female,none,3,savings_insurance,40,stores,own,1,skilled,1,none,yes,No Risk
+269,greater_200,12,prior_payments_delayed,radio_tv,336,100_to_500,4_to_7,3,male,none,3,savings_insurance,33,none,free,1,skilled,1,yes,yes,No Risk
+270,greater_200,14,prior_payments_delayed,car_new,1683,100_to_500,1_to_4,3,male,co-applicant,4,savings_insurance,35,none,own,1,skilled,1,yes,yes,No Risk
+271,greater_200,16,credits_paid_to_date,repairs,907,less_100,less_1,2,female,co-applicant,2,car_other,57,stores,own,1,unskilled,1,yes,yes,Risk
+272,greater_200,16,outstanding_credit,radio_tv,2832,greater_1000,4_to_7,4,male,none,3,car_other,33,none,own,1,skilled,1,none,yes,No Risk
+273,greater_200,17,credits_paid_to_date,car_new,250,greater_1000,less_1,1,male,co-applicant,2,real_estate,40,none,own,1,skilled,1,yes,yes,No Risk
+274,greater_200,18,all_credits_paid_back,car_used,945,100_to_500,1_to_4,3,female,none,3,real_estate,36,none,rent,1,skilled,1,none,yes,No Risk
+275,greater_200,18,credits_paid_to_date,car_new,1325,less_100,1_to_4,2,female,none,2,savings_insurance,36,bank,rent,1,unemployed,1,none,yes,No Risk
+276,greater_200,19,credits_paid_to_date,retraining,5242,100_to_500,1_to_4,2,male,none,1,savings_insurance,38,none,own,1,skilled,1,none,yes,No Risk
+277,greater_200,19,outstanding_credit,car_used,4467,100_to_500,less_1,3,male,none,3,car_other,28,stores,own,3,unskilled,2,yes,yes,No Risk
+278,greater_200,20,credits_paid_to_date,furniture,250,100_to_500,1_to_4,1,female,co-applicant,3,real_estate,39,bank,own,1,unemployed,1,yes,yes,No Risk
+279,greater_200,20,credits_paid_to_date,furniture,1849,less_100,1_to_4,3,female,co-applicant,2,savings_insurance,34,none,own,1,skilled,1,none,yes,No Risk
+280,greater_200,20,credits_paid_to_date,radio_tv,3299,greater_1000,4_to_7,4,female,none,3,car_other,57,none,free,2,skilled,2,yes,yes,Risk
+281,greater_200,20,credits_paid_to_date,repairs,5238,greater_1000,4_to_7,4,male,none,3,car_other,50,none,own,2,skilled,1,yes,yes,No Risk
+282,greater_200,20,outstanding_credit,appliances,5257,unknown,1_to_4,3,male,none,4,car_other,27,none,own,2,skilled,1,none,yes,No Risk
+283,greater_200,20,outstanding_credit,car_used,3074,100_to_500,4_to_7,4,female,guarantor,4,car_other,48,none,free,2,skilled,1,yes,yes,Risk
+284,greater_200,21,credits_paid_to_date,furniture,7148,less_100,1_to_4,3,female,none,4,car_other,43,none,own,1,skilled,1,none,yes,Risk
+285,greater_200,21,outstanding_credit,car_used,5912,100_to_500,4_to_7,4,female,co-applicant,4,unknown,46,none,own,1,skilled,2,yes,yes,Risk
+286,greater_200,21,outstanding_credit,radio_tv,4080,100_to_500,4_to_7,3,male,none,3,car_other,52,none,own,1,skilled,1,yes,yes,No Risk
+287,greater_200,22,credits_paid_to_date,furniture,4109,less_100,4_to_7,3,male,none,4,unknown,45,none,own,1,skilled,1,none,yes,No Risk
+288,greater_200,22,credits_paid_to_date,radio_tv,4725,greater_1000,1_to_4,3,male,guarantor,3,car_other,48,none,free,2,skilled,1,yes,yes,No Risk
+289,greater_200,22,prior_payments_delayed,radio_tv,3995,100_to_500,1_to_4,4,male,none,3,savings_insurance,46,stores,own,1,unskilled,1,yes,yes,No Risk
+290,greater_200,23,credits_paid_to_date,appliances,4790,100_to_500,1_to_4,2,male,none,2,unknown,41,none,own,1,skilled,1,none,yes,No Risk
+291,greater_200,23,credits_paid_to_date,car_used,2963,greater_1000,greater_7,4,female,none,4,car_other,46,none,own,2,skilled,1,none,yes,Risk
+292,greater_200,23,credits_paid_to_date,car_used,4087,less_100,less_1,2,male,none,2,real_estate,29,none,own,2,skilled,1,yes,yes,No Risk
+293,greater_200,23,credits_paid_to_date,radio_tv,2976,100_to_500,4_to_7,4,female,none,4,car_other,49,none,own,1,skilled,1,yes,yes,Risk
+294,greater_200,23,credits_paid_to_date,retraining,4710,less_100,4_to_7,3,male,none,3,car_other,28,none,own,1,skilled,1,yes,yes,Risk
+295,greater_200,24,credits_paid_to_date,car_used,4643,100_to_500,less_1,3,male,none,4,savings_insurance,30,none,own,1,management_self-employed,1,none,yes,No Risk
+296,greater_200,24,credits_paid_to_date,car_used,4758,100_to_500,4_to_7,3,male,none,3,savings_insurance,38,none,own,1,skilled,1,yes,yes,No Risk
+297,greater_200,24,credits_paid_to_date,radio_tv,5600,less_100,less_1,4,male,none,3,car_other,38,stores,own,2,unskilled,1,none,yes,No Risk
+298,greater_200,24,outstanding_credit,appliances,4193,100_to_500,4_to_7,3,male,none,2,unknown,36,none,own,2,skilled,1,yes,yes,No Risk
+299,greater_200,24,prior_payments_delayed,car_used,4311,greater_1000,4_to_7,2,male,co-applicant,3,car_other,55,none,own,2,skilled,2,yes,yes,No Risk
+300,greater_200,25,credits_paid_to_date,car_used,7360,less_100,1_to_4,3,male,none,3,car_other,35,none,own,2,skilled,1,yes,yes,Risk
+301,greater_200,25,outstanding_credit,appliances,4400,500_to_1000,1_to_4,2,female,none,3,unknown,43,stores,own,1,skilled,1,none,yes,No Risk
+302,greater_200,25,outstanding_credit,business,5515,unknown,4_to_7,3,male,none,3,unknown,44,none,free,2,skilled,1,yes,yes,No Risk
+303,greater_200,25,outstanding_credit,car_used,4411,greater_1000,1_to_4,4,male,none,4,savings_insurance,41,none,own,2,skilled,1,yes,no,No Risk
+304,greater_200,26,credits_paid_to_date,furniture,3308,100_to_500,4_to_7,4,female,none,4,car_other,55,none,own,2,management_self-employed,1,yes,yes,Risk
+305,greater_200,26,credits_paid_to_date,repairs,6010,greater_1000,greater_7,4,male,none,4,car_other,42,none,own,2,skilled,1,none,yes,Risk
+306,greater_200,27,credits_paid_to_date,car_new,4972,greater_1000,4_to_7,4,male,none,4,unknown,36,none,own,2,skilled,1,none,yes,No Risk
+307,greater_200,27,outstanding_credit,vacation,5932,100_to_500,4_to_7,3,male,none,3,savings_insurance,40,none,own,1,management_self-employed,1,yes,yes,Risk
+308,greater_200,28,credits_paid_to_date,car_new,2761,500_to_1000,less_1,3,male,none,4,savings_insurance,37,none,rent,2,skilled,1,none,yes,No Risk
+309,greater_200,28,outstanding_credit,business,3487,unknown,greater_7,4,female,none,3,unknown,48,none,own,2,skilled,1,none,yes,Risk
+310,greater_200,28,outstanding_credit,furniture,4175,unknown,greater_7,4,male,none,4,unknown,53,none,own,2,skilled,1,yes,yes,No Risk
+311,greater_200,28,prior_payments_delayed,car_used,3942,100_to_500,4_to_7,4,male,none,3,savings_insurance,46,none,free,2,skilled,1,none,no,No Risk
+312,greater_200,28,prior_payments_delayed,furniture,4048,100_to_500,1_to_4,3,male,none,2,savings_insurance,24,none,own,2,skilled,1,yes,yes,No Risk
+313,greater_200,28,prior_payments_delayed,radio_tv,675,100_to_500,4_to_7,3,female,none,2,real_estate,49,none,own,1,skilled,1,yes,yes,Risk
+314,greater_200,29,prior_payments_delayed,education,6295,100_to_500,1_to_4,4,male,none,4,savings_insurance,31,none,own,2,management_self-employed,2,yes,yes,No Risk
+315,greater_200,29,prior_payments_delayed,furniture,4860,100_to_500,greater_7,3,male,none,4,savings_insurance,44,none,own,1,skilled,1,none,yes,No Risk
+316,greater_200,30,all_credits_paid_back,car_new,3900,less_100,1_to_4,2,female,none,3,savings_insurance,33,none,own,1,skilled,1,none,yes,Risk
+317,greater_200,30,outstanding_credit,radio_tv,5786,500_to_1000,greater_7,5,female,none,4,unknown,37,none,own,2,skilled,1,yes,yes,Risk
+318,greater_200,30,prior_payments_delayed,appliances,9655,less_100,1_to_4,3,male,none,3,unknown,37,none,own,2,skilled,1,none,yes,No Risk
+319,greater_200,30,prior_payments_delayed,business,4040,100_to_500,4_to_7,3,male,co-applicant,4,unknown,26,none,own,1,skilled,1,none,yes,No Risk
+320,greater_200,31,all_credits_paid_back,car_new,3342,less_100,4_to_7,3,male,none,2,car_other,36,none,own,1,skilled,1,none,yes,No Risk
+321,greater_200,31,prior_payments_delayed,appliances,3836,100_to_500,1_to_4,3,male,none,3,savings_insurance,35,none,own,1,skilled,1,yes,yes,Risk
+322,greater_200,31,prior_payments_delayed,appliances,4073,100_to_500,greater_7,3,male,none,3,savings_insurance,36,none,own,1,skilled,2,none,yes,No Risk
+323,greater_200,31,prior_payments_delayed,education,1286,100_to_500,1_to_4,3,female,none,3,real_estate,35,none,own,1,skilled,1,none,yes,Risk
+324,greater_200,32,outstanding_credit,furniture,6563,unknown,greater_7,4,male,co-applicant,5,car_other,51,none,own,2,management_self-employed,2,yes,yes,No Risk
+325,greater_200,34,credits_paid_to_date,business,9252,less_100,1_to_4,3,male,none,4,unknown,31,none,free,2,management_self-employed,1,none,yes,Risk
+326,greater_200,34,prior_payments_delayed,radio_tv,3532,500_to_1000,4_to_7,3,female,none,4,unknown,45,stores,free,2,unskilled,2,yes,yes,Risk
+327,greater_200,35,prior_payments_delayed,appliances,4256,unknown,1_to_4,4,male,none,4,savings_insurance,20,none,own,2,skilled,2,none,yes,No Risk
+328,greater_200,35,prior_payments_delayed,business,7798,100_to_500,4_to_7,4,male,none,2,car_other,34,none,free,2,management_self-employed,1,yes,yes,Risk
+329,greater_200,35,prior_payments_delayed,car_used,4625,greater_1000,4_to_7,4,male,none,4,savings_insurance,43,none,own,2,skilled,1,none,yes,Risk
+330,greater_200,36,outstanding_credit,repairs,5237,500_to_1000,greater_7,4,male,none,4,car_other,49,none,own,2,skilled,1,none,yes,No Risk
+331,greater_200,36,prior_payments_delayed,furniture,5597,500_to_1000,4_to_7,3,female,co-applicant,3,car_other,39,none,own,1,skilled,1,none,yes,Risk
+332,greater_200,36,prior_payments_delayed,radio_tv,4469,100_to_500,greater_7,4,male,none,2,savings_insurance,34,none,own,2,skilled,1,yes,yes,No Risk
+333,less_0,4,all_credits_paid_back,car_new,250,100_to_500,less_1,1,male,none,1,real_estate,25,bank,rent,1,unskilled,1,none,yes,No Risk
+334,less_0,4,all_credits_paid_back,car_new,250,less_100,1_to_4,2,female,none,1,real_estate,19,none,rent,1,skilled,1,none,yes,No Risk
+335,less_0,4,all_credits_paid_back,car_new,250,less_100,1_to_4,2,male,none,3,real_estate,19,bank,rent,1,unskilled,1,none,yes,No Risk
+336,less_0,4,all_credits_paid_back,car_new,250,less_100,less_1,1,male,none,1,real_estate,23,none,rent,1,skilled,1,none,yes,No Risk
+337,less_0,4,all_credits_paid_back,car_new,250,less_100,less_1,2,female,none,1,real_estate,19,none,rent,1,skilled,1,none,yes,No Risk
+338,less_0,4,all_credits_paid_back,car_new,250,less_100,less_1,2,male,none,2,savings_insurance,19,none,rent,1,management_self-employed,1,none,yes,No Risk
+339,less_0,4,all_credits_paid_back,car_new,250,less_100,unemployed,1,female,none,1,savings_insurance,30,none,rent,1,skilled,1,none,yes,No Risk
+340,less_0,4,all_credits_paid_back,car_new,250,less_100,unemployed,1,female,none,2,real_estate,19,none,rent,1,skilled,1,none,yes,No Risk
+341,less_0,4,all_credits_paid_back,car_new,250,less_100,unemployed,1,male,none,1,real_estate,19,none,rent,1,skilled,1,none,yes,No Risk
+342,less_0,4,all_credits_paid_back,car_new,250,less_100,unemployed,1,male,none,1,real_estate,38,stores,rent,1,skilled,1,none,yes,No Risk
+343,less_0,4,all_credits_paid_back,car_new,250,less_100,unemployed,1,male,none,2,real_estate,19,none,rent,1,skilled,1,none,yes,No Risk
+344,less_0,4,all_credits_paid_back,car_new,250,less_100,unemployed,1,male,none,2,real_estate,19,stores,rent,1,skilled,1,none,yes,No Risk
+345,less_0,4,all_credits_paid_back,car_new,348,less_100,unemployed,2,male,none,2,real_estate,19,none,rent,1,skilled,1,none,yes,No Risk
+346,less_0,4,all_credits_paid_back,car_new,929,less_100,1_to_4,1,male,none,2,real_estate,22,stores,own,1,skilled,1,none,yes,No Risk
+347,less_0,4,all_credits_paid_back,car_new,1000,less_100,1_to_4,1,male,none,2,real_estate,22,stores,rent,1,skilled,1,none,yes,No Risk
+348,less_0,4,all_credits_paid_back,car_new,1301,100_to_500,less_1,1,female,none,2,real_estate,20,bank,rent,2,unskilled,2,none,yes,No Risk
+349,less_0,4,all_credits_paid_back,car_new,2121,less_100,less_1,2,male,none,1,real_estate,19,none,own,1,management_self-employed,1,none,yes,No Risk
+350,less_0,4,all_credits_paid_back,car_new,2862,less_100,less_1,2,female,none,3,real_estate,19,none,own,1,skilled,1,none,yes,No Risk
+351,less_0,4,all_credits_paid_back,car_new,4853,less_100,less_1,1,female,none,2,savings_insurance,19,none,rent,1,skilled,1,none,yes,No Risk
+352,less_0,4,all_credits_paid_back,car_used,250,less_100,less_1,1,male,none,1,real_estate,37,stores,own,1,skilled,1,none,yes,No Risk
+353,less_0,4,all_credits_paid_back,car_used,2070,less_100,unemployed,1,female,none,2,savings_insurance,23,none,rent,1,skilled,1,none,yes,No Risk
+354,less_0,4,all_credits_paid_back,furniture,1782,less_100,less_1,1,female,none,1,savings_insurance,33,none,rent,1,skilled,1,none,yes,No Risk
+355,less_0,4,all_credits_paid_back,radio_tv,250,less_100,unemployed,1,female,none,2,real_estate,19,none,rent,1,skilled,1,none,yes,No Risk
+356,less_0,4,all_credits_paid_back,radio_tv,950,less_100,less_1,2,male,none,2,real_estate,22,bank,rent,1,unskilled,1,none,yes,No Risk
+357,less_0,4,all_credits_paid_back,repairs,250,less_100,1_to_4,2,female,none,1,real_estate,19,none,rent,1,skilled,1,none,yes,No Risk
+358,less_0,4,all_credits_paid_back,repairs,250,less_100,unemployed,1,male,none,1,real_estate,19,stores,rent,1,unskilled,1,none,yes,No Risk
+359,less_0,4,all_credits_paid_back,repairs,917,less_100,unemployed,1,male,co-applicant,1,savings_insurance,40,stores,own,1,unskilled,1,yes,yes,No Risk
+360,less_0,4,credits_paid_to_date,car_new,250,100_to_500,less_1,1,female,none,2,savings_insurance,21,none,rent,1,skilled,1,none,yes,No Risk
+361,less_0,4,credits_paid_to_date,car_new,250,100_to_500,less_1,2,female,co-applicant,1,real_estate,39,stores,rent,1,skilled,1,none,yes,No Risk
+362,less_0,4,credits_paid_to_date,car_new,250,100_to_500,less_1,2,female,none,2,real_estate,33,none,rent,1,skilled,1,none,yes,No Risk
+363,less_0,4,credits_paid_to_date,car_new,250,less_100,1_to_4,1,female,none,2,car_other,31,none,own,1,skilled,1,yes,yes,No Risk
+364,less_0,4,credits_paid_to_date,car_new,250,less_100,1_to_4,2,female,none,3,savings_insurance,19,none,rent,1,skilled,1,none,yes,No Risk
+365,less_0,4,credits_paid_to_date,car_new,250,less_100,less_1,1,female,none,1,real_estate,19,none,rent,1,skilled,1,none,yes,No Risk
+366,less_0,4,credits_paid_to_date,car_new,365,less_100,1_to_4,2,female,none,2,real_estate,19,none,rent,1,skilled,1,none,yes,No Risk
+367,less_0,4,credits_paid_to_date,car_new,2769,less_100,unemployed,1,male,none,2,real_estate,28,none,own,1,skilled,1,none,yes,No Risk
+368,less_0,4,credits_paid_to_date,car_used,250,less_100,1_to_4,2,female,none,1,real_estate,22,stores,own,1,unskilled,1,none,yes,No Risk
+369,less_0,4,credits_paid_to_date,car_used,250,less_100,less_1,2,female,none,1,savings_insurance,19,bank,own,1,unemployed,1,none,yes,No Risk
+370,less_0,4,credits_paid_to_date,car_used,309,less_100,less_1,2,male,none,2,real_estate,28,none,rent,1,skilled,1,none,yes,No Risk
+371,less_0,4,credits_paid_to_date,car_used,2806,100_to_500,4_to_7,3,male,none,2,car_other,24,stores,rent,2,unskilled,1,none,yes,No Risk
+372,less_0,4,credits_paid_to_date,education,250,less_100,less_1,1,male,none,1,savings_insurance,19,stores,own,1,skilled,1,none,yes,No Risk
+373,less_0,4,credits_paid_to_date,education,250,less_100,unemployed,1,female,none,1,real_estate,19,none,rent,1,skilled,1,none,yes,No Risk
+374,less_0,4,credits_paid_to_date,radio_tv,405,less_100,less_1,2,female,none,1,real_estate,24,none,own,1,skilled,1,none,yes,No Risk
+375,less_0,4,credits_paid_to_date,vacation,250,less_100,less_1,2,female,none,1,real_estate,19,none,rent,1,skilled,1,none,yes,No Risk
+376,less_0,4,no_credits,car_new,250,less_100,less_1,1,female,none,1,real_estate,19,none,rent,1,skilled,1,none,yes,No Risk
+377,less_0,4,no_credits,car_new,250,less_100,less_1,1,male,none,2,real_estate,22,none,rent,1,skilled,1,none,yes,No Risk
+378,less_0,4,no_credits,car_new,737,less_100,less_1,2,male,none,2,real_estate,19,stores,rent,1,unskilled,1,none,yes,No Risk
+379,less_0,4,no_credits,car_used,250,100_to_500,less_1,1,male,none,2,real_estate,30,bank,rent,1,unskilled,1,none,yes,No Risk
+380,less_0,4,no_credits,furniture,250,less_100,unemployed,1,male,none,1,real_estate,19,none,rent,1,skilled,1,none,yes,No Risk
+381,less_0,4,prior_payments_delayed,car_new,2677,500_to_1000,1_to_4,3,male,none,3,car_other,26,none,own,1,skilled,2,none,yes,Risk
+382,less_0,5,all_credits_paid_back,car_new,250,100_to_500,1_to_4,1,female,co-applicant,2,real_estate,31,stores,own,1,unskilled,1,yes,yes,No Risk
+383,less_0,5,all_credits_paid_back,car_new,250,less_100,1_to_4,2,female,none,3,real_estate,22,bank,rent,1,unemployed,1,none,yes,No Risk
+384,less_0,5,all_credits_paid_back,car_used,250,100_to_500,1_to_4,1,female,none,1,savings_insurance,25,stores,rent,1,skilled,1,none,yes,No Risk
+385,less_0,5,credits_paid_to_date,appliances,250,less_100,4_to_7,3,male,none,3,real_estate,19,none,own,1,management_self-employed,1,none,yes,No Risk
+386,less_0,5,prior_payments_delayed,furniture,250,less_100,4_to_7,3,male,none,2,car_other,22,bank,rent,1,unskilled,1,none,yes,No Risk
+387,less_0,6,all_credits_paid_back,car_new,250,less_100,unemployed,1,female,co-applicant,2,real_estate,27,none,rent,1,skilled,1,none,yes,No Risk
+388,less_0,6,all_credits_paid_back,car_used,250,less_100,1_to_4,2,male,none,2,savings_insurance,28,stores,rent,1,skilled,1,none,yes,Risk
+389,less_0,6,all_credits_paid_back,car_used,250,less_100,less_1,2,male,none,1,real_estate,19,none,rent,1,skilled,1,none,yes,No Risk
+390,less_0,6,all_credits_paid_back,car_used,250,less_100,unemployed,1,female,none,2,savings_insurance,19,stores,rent,1,skilled,1,none,yes,No Risk
+391,less_0,6,all_credits_paid_back,education,250,100_to_500,less_1,1,male,none,1,real_estate,26,stores,rent,1,skilled,1,none,yes,No Risk
+392,less_0,6,prior_payments_delayed,car_used,250,500_to_1000,less_1,1,female,none,1,real_estate,23,stores,rent,1,skilled,1,none,yes,No Risk
+393,less_0,7,all_credits_paid_back,car_new,250,less_100,1_to_4,1,male,none,2,real_estate,19,stores,own,1,skilled,1,none,yes,No Risk
+394,less_0,7,all_credits_paid_back,car_new,250,less_100,less_1,2,male,none,1,real_estate,19,stores,rent,1,skilled,1,none,yes,No Risk
+395,less_0,7,all_credits_paid_back,car_used,250,less_100,1_to_4,1,male,none,2,real_estate,23,none,rent,1,skilled,1,none,yes,No Risk
+396,less_0,7,credits_paid_to_date,vacation,250,less_100,4_to_7,3,female,none,3,real_estate,19,none,own,1,skilled,1,none,yes,No Risk
+397,less_0,7,no_credits,car_new,250,less_100,unemployed,2,female,none,1,real_estate,25,none,rent,1,skilled,1,none,yes,No Risk
+398,less_0,7,no_credits,car_new,250,less_100,unemployed,2,male,none,2,real_estate,19,none,rent,1,skilled,1,none,yes,No Risk
+399,less_0,7,no_credits,repairs,250,100_to_500,unemployed,1,male,none,2,real_estate,19,stores,rent,1,unskilled,1,none,yes,No Risk
+400,less_0,8,all_credits_paid_back,car_new,1170,less_100,less_1,2,male,none,2,car_other,28,none,own,1,skilled,1,none,yes,No Risk
+401,less_0,8,all_credits_paid_back,car_new,1608,less_100,unemployed,2,female,none,3,savings_insurance,22,none,rent,1,skilled,1,none,yes,No Risk
+402,less_0,8,all_credits_paid_back,car_new,2876,less_100,unemployed,1,female,none,1,savings_insurance,32,none,own,2,skilled,1,none,yes,No Risk
+403,less_0,8,prior_payments_delayed,car_new,3793,less_100,1_to_4,2,male,co-applicant,3,car_other,37,bank,own,1,unemployed,1,yes,yes,No Risk
+404,less_0,8,prior_payments_delayed,car_new,4334,less_100,1_to_4,1,male,none,2,unknown,45,stores,own,1,skilled,1,none,yes,No Risk
+405,less_0,8,prior_payments_delayed,furniture,2160,less_100,less_1,2,female,none,1,real_estate,32,none,own,1,skilled,1,yes,yes,No Risk
+406,less_0,8,prior_payments_delayed,furniture,2842,less_100,1_to_4,3,female,none,2,real_estate,35,none,own,1,skilled,1,none,yes,No Risk
+407,less_0,8,prior_payments_delayed,repairs,701,500_to_1000,1_to_4,3,male,none,3,savings_insurance,43,none,rent,1,skilled,1,none,yes,No Risk
+408,less_0,9,all_credits_paid_back,car_new,250,100_to_500,1_to_4,2,male,co-applicant,2,savings_insurance,44,stores,own,1,skilled,1,none,yes,No Risk
+409,less_0,9,all_credits_paid_back,car_new,250,less_100,1_to_4,1,male,none,1,savings_insurance,19,stores,rent,1,unskilled,1,none,yes,No Risk
+410,less_0,9,all_credits_paid_back,car_new,250,less_100,1_to_4,2,female,co-applicant,3,real_estate,22,stores,own,1,unskilled,1,none,yes,No Risk
+411,less_0,9,all_credits_paid_back,car_used,250,100_to_500,less_1,1,male,none,2,real_estate,23,stores,rent,1,skilled,1,none,yes,No Risk
+412,less_0,9,all_credits_paid_back,car_used,448,100_to_500,1_to_4,2,male,none,2,real_estate,27,bank,rent,2,unskilled,1,none,yes,No Risk
+413,less_0,9,all_credits_paid_back,car_used,687,less_100,less_1,2,female,none,1,savings_insurance,31,stores,own,2,unskilled,1,none,yes,No Risk
+414,less_0,9,all_credits_paid_back,car_used,1931,less_100,unemployed,1,female,none,2,real_estate,24,stores,rent,1,unskilled,1,none,yes,No Risk
+415,less_0,9,all_credits_paid_back,education,481,less_100,less_1,2,male,none,3,savings_insurance,25,none,rent,1,management_self-employed,1,none,yes,No Risk
+416,less_0,9,all_credits_paid_back,vacation,250,100_to_500,4_to_7,3,female,none,1,real_estate,19,none,own,2,skilled,1,none,yes,No Risk
+417,less_0,9,credits_paid_to_date,furniture,1630,less_100,less_1,2,female,none,1,savings_insurance,25,stores,own,1,skilled,1,yes,yes,No Risk
+418,less_0,9,credits_paid_to_date,vacation,4308,less_100,less_1,2,female,none,3,savings_insurance,25,stores,own,1,skilled,1,yes,yes,No Risk
+419,less_0,9,no_credits,car_new,250,less_100,unemployed,1,male,none,2,real_estate,28,none,rent,1,skilled,1,none,yes,No Risk
+420,less_0,9,prior_payments_delayed,car_new,332,500_to_1000,1_to_4,2,male,none,3,real_estate,27,none,own,1,skilled,1,none,yes,No Risk
+421,less_0,9,prior_payments_delayed,car_new,1099,less_100,1_to_4,3,female,none,1,savings_insurance,30,stores,own,1,skilled,1,none,yes,No Risk
+422,less_0,9,prior_payments_delayed,car_new,2274,less_100,1_to_4,2,male,none,3,car_other,31,none,rent,1,skilled,2,none,yes,Risk
+423,less_0,9,prior_payments_delayed,car_new,4609,less_100,1_to_4,3,male,none,2,savings_insurance,36,none,rent,1,skilled,2,none,yes,No Risk
+424,less_0,9,prior_payments_delayed,car_used,2376,less_100,1_to_4,2,male,none,3,savings_insurance,41,bank,rent,2,unskilled,1,none,yes,Risk
+425,less_0,9,prior_payments_delayed,vacation,4783,less_100,less_1,2,female,none,1,savings_insurance,33,none,own,1,skilled,1,none,yes,No Risk
+426,less_0,10,all_credits_paid_back,appliances,2296,less_100,unemployed,2,female,none,1,savings_insurance,26,bank,rent,1,unskilled,1,none,yes,No Risk
+427,less_0,10,all_credits_paid_back,car_new,250,less_100,unemployed,1,male,none,2,real_estate,19,stores,rent,1,skilled,1,none,yes,No Risk
+428,less_0,10,all_credits_paid_back,car_new,762,less_100,1_to_4,1,female,none,2,savings_insurance,27,stores,own,1,skilled,1,none,yes,No Risk
+429,less_0,10,all_credits_paid_back,car_new,3503,less_100,less_1,2,female,none,2,savings_insurance,24,none,own,1,skilled,1,yes,yes,No Risk
+430,less_0,10,all_credits_paid_back,car_used,250,100_to_500,less_1,1,female,none,2,savings_insurance,27,stores,own,3,unskilled,2,yes,yes,No Risk
+431,less_0,10,all_credits_paid_back,car_used,250,100_to_500,less_1,1,male,none,2,savings_insurance,36,none,rent,2,skilled,1,none,yes,No Risk
+432,less_0,10,all_credits_paid_back,car_used,259,100_to_500,1_to_4,2,female,none,2,real_estate,29,none,own,1,skilled,1,yes,yes,No Risk
+433,less_0,10,all_credits_paid_back,furniture,3251,less_100,unemployed,2,female,none,3,savings_insurance,27,none,rent,3,skilled,2,none,yes,Risk
+434,less_0,10,credits_paid_to_date,furniture,250,less_100,less_1,2,female,none,1,real_estate,22,stores,own,1,skilled,1,none,yes,No Risk
+435,less_0,10,credits_paid_to_date,furniture,2005,100_to_500,1_to_4,3,male,none,3,car_other,34,stores,own,1,skilled,1,none,yes,No Risk
+436,less_0,10,prior_payments_delayed,car_used,250,less_100,1_to_4,2,male,none,3,car_other,27,none,own,2,skilled,2,yes,yes,No Risk
+437,less_0,10,prior_payments_delayed,furniture,3633,less_100,less_1,3,male,none,3,car_other,28,none,rent,1,skilled,1,none,yes,No Risk
+438,less_0,11,all_credits_paid_back,car_new,250,less_100,1_to_4,3,male,none,3,savings_insurance,25,bank,rent,1,unskilled,1,none,yes,No Risk
+439,less_0,11,all_credits_paid_back,car_new,250,less_100,unemployed,1,female,none,2,savings_insurance,21,none,rent,1,skilled,1,none,yes,No Risk
+440,less_0,11,all_credits_paid_back,car_new,250,less_100,unemployed,1,male,none,1,real_estate,19,stores,own,1,skilled,1,none,yes,No Risk
+441,less_0,11,all_credits_paid_back,car_new,250,less_100,unemployed,1,male,none,1,real_estate,26,bank,rent,1,unskilled,1,none,yes,No Risk
+442,less_0,11,all_credits_paid_back,car_new,259,less_100,4_to_7,3,male,none,2,real_estate,19,none,own,1,skilled,1,none,yes,No Risk
+443,less_0,11,all_credits_paid_back,car_new,996,less_100,1_to_4,2,female,none,2,real_estate,32,bank,rent,1,unemployed,1,none,yes,No Risk
+444,less_0,11,all_credits_paid_back,car_used,261,less_100,unemployed,2,female,none,1,real_estate,20,none,rent,2,skilled,1,none,yes,No Risk
+445,less_0,11,all_credits_paid_back,furniture,250,less_100,less_1,1,male,none,2,real_estate,40,stores,own,1,skilled,1,yes,yes,No Risk
+446,less_0,11,all_credits_paid_back,radio_tv,340,less_100,less_1,2,male,none,1,real_estate,19,none,rent,1,management_self-employed,1,none,yes,No Risk
+447,less_0,11,all_credits_paid_back,vacation,598,less_100,1_to_4,2,female,co-applicant,2,savings_insurance,34,stores,rent,1,skilled,1,none,yes,No Risk
+448,less_0,11,credits_paid_to_date,car_new,250,less_100,less_1,2,female,none,1,real_estate,24,none,own,1,skilled,1,none,yes,No Risk
+449,less_0,11,credits_paid_to_date,car_new,2083,less_100,less_1,2,male,none,2,savings_insurance,25,none,own,1,skilled,1,none,yes,No Risk
+450,less_0,11,prior_payments_delayed,car_new,1216,less_100,4_to_7,2,male,none,2,savings_insurance,42,none,own,2,skilled,1,yes,yes,No Risk
+451,less_0,11,prior_payments_delayed,car_new,1729,less_100,1_to_4,3,male,co-applicant,3,car_other,44,none,own,1,skilled,1,yes,yes,Risk
+452,less_0,11,prior_payments_delayed,car_new,2753,less_100,unemployed,2,male,none,3,car_other,23,none,rent,1,skilled,1,none,yes,No Risk
+453,less_0,11,prior_payments_delayed,furniture,250,less_100,1_to_4,2,female,none,3,savings_insurance,21,bank,rent,1,unskilled,1,yes,yes,No Risk
+454,less_0,11,prior_payments_delayed,furniture,1395,less_100,4_to_7,3,male,none,2,car_other,31,none,own,1,skilled,1,none,yes,No Risk
+455,less_0,11,prior_payments_delayed,furniture,1546,500_to_1000,4_to_7,3,male,none,3,savings_insurance,28,none,own,2,skilled,1,yes,yes,Risk
+456,less_0,12,all_credits_paid_back,appliances,3796,100_to_500,4_to_7,3,female,none,2,car_other,35,bank,rent,2,unemployed,1,yes,yes,No Risk
+457,less_0,12,all_credits_paid_back,car_new,536,less_100,1_to_4,2,female,none,2,savings_insurance,32,none,own,1,skilled,1,none,yes,No Risk
+458,less_0,12,all_credits_paid_back,car_used,250,less_100,1_to_4,3,female,none,3,real_estate,35,none,own,1,skilled,1,none,yes,No Risk
+459,less_0,12,all_credits_paid_back,car_used,250,less_100,less_1,1,female,none,1,savings_insurance,20,stores,own,1,skilled,1,none,yes,No Risk
+460,less_0,12,all_credits_paid_back,car_used,250,less_100,unemployed,2,male,none,2,real_estate,30,none,own,1,skilled,1,none,yes,No Risk
+461,less_0,12,all_credits_paid_back,car_used,916,less_100,less_1,2,female,co-applicant,2,savings_insurance,38,none,own,1,skilled,1,none,yes,No Risk
+462,less_0,12,all_credits_paid_back,furniture,250,less_100,1_to_4,1,female,none,2,savings_insurance,28,stores,rent,1,skilled,1,none,yes,No Risk
+463,less_0,12,all_credits_paid_back,furniture,250,less_100,unemployed,2,female,none,2,savings_insurance,27,bank,rent,1,unemployed,2,yes,yes,No Risk
+464,less_0,12,all_credits_paid_back,furniture,1293,less_100,less_1,1,female,none,1,real_estate,29,stores,rent,1,skilled,1,none,yes,No Risk
+465,less_0,12,all_credits_paid_back,furniture,1329,less_100,less_1,1,female,none,1,savings_insurance,34,stores,own,3,skilled,1,none,yes,Risk
+466,less_0,12,no_credits,car_new,3037,less_100,less_1,1,female,none,2,car_other,31,stores,own,1,skilled,1,none,yes,No Risk
+467,less_0,12,prior_payments_delayed,car_new,250,greater_1000,4_to_7,1,female,co-applicant,2,real_estate,25,stores,rent,1,unskilled,1,yes,yes,No Risk
+468,less_0,12,prior_payments_delayed,car_new,250,greater_1000,less_1,1,female,none,2,real_estate,22,bank,rent,1,unemployed,1,none,yes,No Risk
+469,less_0,13,all_credits_paid_back,car_new,250,500_to_1000,1_to_4,2,female,none,3,savings_insurance,22,stores,own,1,skilled,1,none,yes,No Risk
+470,less_0,13,all_credits_paid_back,car_new,2436,less_100,less_1,2,female,none,1,savings_insurance,19,stores,own,1,skilled,1,none,yes,No Risk
+471,less_0,13,all_credits_paid_back,car_used,1820,100_to_500,unemployed,2,female,none,3,car_other,28,none,rent,2,skilled,2,none,yes,No Risk
+472,less_0,13,all_credits_paid_back,furniture,250,less_100,less_1,2,female,none,1,savings_insurance,26,stores,rent,1,unskilled,1,none,yes,No Risk
+473,less_0,13,credits_paid_to_date,car_used,250,500_to_1000,unemployed,1,male,none,2,savings_insurance,19,none,rent,1,skilled,1,none,yes,No Risk
+474,less_0,13,prior_payments_delayed,car_new,294,less_100,4_to_7,2,male,none,3,car_other,41,bank,rent,1,unskilled,1,none,yes,No Risk
+475,less_0,13,prior_payments_delayed,car_used,1401,less_100,4_to_7,2,male,none,3,unknown,44,stores,own,1,skilled,1,none,yes,Risk
+476,less_0,13,prior_payments_delayed,furniture,2438,less_100,1_to_4,2,female,none,3,car_other,36,stores,rent,1,skilled,1,none,yes,No Risk
+477,less_0,14,all_credits_paid_back,car_new,250,500_to_1000,less_1,2,male,none,2,savings_insurance,24,stores,own,1,skilled,1,none,yes,No Risk
+478,less_0,14,all_credits_paid_back,car_new,250,less_100,1_to_4,2,female,none,3,savings_insurance,19,stores,own,1,skilled,1,none,yes,Risk
+479,less_0,14,all_credits_paid_back,car_new,250,less_100,unemployed,1,female,none,1,real_estate,19,stores,own,1,skilled,1,none,yes,No Risk
+480,less_0,14,all_credits_paid_back,car_new,496,less_100,4_to_7,3,female,none,1,real_estate,34,stores,rent,1,skilled,1,none,yes,No Risk
+481,less_0,14,all_credits_paid_back,car_used,1872,less_100,less_1,2,female,none,2,savings_insurance,23,none,own,1,skilled,1,none,yes,No Risk
+482,less_0,14,all_credits_paid_back,furniture,868,less_100,1_to_4,3,female,none,3,real_estate,23,bank,rent,2,unemployed,1,none,yes,No Risk
+483,less_0,14,all_credits_paid_back,furniture,1784,less_100,unemployed,1,female,none,2,savings_insurance,22,none,rent,1,skilled,1,none,yes,No Risk
+484,less_0,14,credits_paid_to_date,furniture,1157,less_100,less_1,2,female,none,3,real_estate,21,none,own,1,skilled,1,none,yes,No Risk
+485,less_0,14,no_credits,car_new,250,less_100,less_1,1,female,none,1,real_estate,33,stores,own,1,skilled,1,none,yes,No Risk
+486,less_0,14,no_credits,car_new,250,less_100,unemployed,1,male,none,1,real_estate,19,none,rent,1,skilled,1,none,yes,No Risk
+487,less_0,14,prior_payments_delayed,furniture,1072,less_100,1_to_4,1,male,none,3,savings_insurance,32,stores,own,1,skilled,1,none,yes,No Risk
+488,less_0,14,prior_payments_delayed,retraining,2826,less_100,4_to_7,2,male,co-applicant,2,car_other,46,stores,free,2,unskilled,1,yes,yes,No Risk
+489,less_0,15,credits_paid_to_date,appliances,816,less_100,4_to_7,2,female,none,1,savings_insurance,26,none,own,1,skilled,1,none,yes,No Risk
+490,less_0,15,credits_paid_to_date,car_new,466,less_100,unemployed,2,female,none,3,real_estate,28,none,own,1,management_self-employed,1,none,yes,No Risk
+491,less_0,15,credits_paid_to_date,furniture,250,500_to_1000,unemployed,1,female,none,1,real_estate,19,stores,rent,1,skilled,1,none,yes,No Risk
+492,less_0,15,credits_paid_to_date,furniture,250,less_100,1_to_4,3,female,none,2,savings_insurance,30,bank,rent,1,unemployed,1,none,yes,No Risk
+493,less_0,15,credits_paid_to_date,furniture,250,less_100,less_1,2,female,none,2,savings_insurance,27,none,own,1,skilled,1,yes,yes,Risk
+494,less_0,15,prior_payments_delayed,furniture,1163,less_100,4_to_7,3,male,none,3,savings_insurance,33,none,own,2,skilled,1,none,yes,No Risk
+495,less_0,15,prior_payments_delayed,furniture,2746,500_to_1000,greater_7,3,male,none,1,car_other,41,stores,own,2,skilled,1,none,yes,No Risk
+496,less_0,15,prior_payments_delayed,furniture,4496,less_100,1_to_4,3,male,none,3,savings_insurance,32,none,own,1,skilled,1,yes,yes,No Risk
+497,less_0,15,prior_payments_delayed,radio_tv,250,less_100,4_to_7,2,male,none,1,real_estate,25,stores,own,1,skilled,1,none,yes,No Risk
+498,less_0,15,prior_payments_delayed,radio_tv,904,100_to_500,1_to_4,3,male,none,2,savings_insurance,25,none,own,1,skilled,1,none,yes,No Risk
+499,less_0,15,prior_payments_delayed,radio_tv,1391,less_100,less_1,1,female,none,1,car_other,34,stores,rent,1,skilled,1,none,yes,No Risk
+500,less_0,15,prior_payments_delayed,radio_tv,6090,500_to_1000,greater_7,4,male,none,3,car_other,49,none,own,2,skilled,1,none,yes,No Risk
+501,less_0,16,credits_paid_to_date,car_new,250,500_to_1000,4_to_7,3,female,none,3,savings_insurance,19,bank,rent,1,unemployed,1,none,yes,No Risk
+502,less_0,16,credits_paid_to_date,car_new,250,500_to_1000,4_to_7,3,male,none,2,real_estate,29,none,own,1,skilled,1,none,yes,No Risk
+503,less_0,16,credits_paid_to_date,car_new,250,less_100,4_to_7,3,female,none,1,savings_insurance,19,bank,rent,1,unemployed,1,none,yes,No Risk
+504,less_0,16,credits_paid_to_date,car_new,250,less_100,4_to_7,3,male,none,2,car_other,29,none,own,2,skilled,1,none,yes,No Risk
+505,less_0,16,credits_paid_to_date,furniture,250,less_100,unemployed,2,male,none,3,savings_insurance,26,none,rent,1,skilled,1,none,yes,No Risk
+506,less_0,16,credits_paid_to_date,radio_tv,250,less_100,4_to_7,2,male,none,2,savings_insurance,19,stores,own,1,unskilled,1,none,yes,Risk
+507,less_0,16,credits_paid_to_date,vacation,3109,less_100,4_to_7,3,female,none,1,car_other,36,none,own,2,skilled,1,none,yes,No Risk
+508,less_0,16,prior_payments_delayed,appliances,250,less_100,4_to_7,1,male,none,2,savings_insurance,22,stores,own,1,unskilled,1,none,yes,Risk
+509,less_0,16,prior_payments_delayed,appliances,5474,less_100,1_to_4,2,female,none,1,unknown,34,stores,rent,1,skilled,1,none,yes,No Risk
+510,less_0,16,prior_payments_delayed,car_new,3009,500_to_1000,less_1,3,male,none,3,car_other,37,none,own,2,skilled,1,none,yes,Risk
+511,less_0,16,prior_payments_delayed,car_used,653,less_100,4_to_7,3,female,co-applicant,3,car_other,24,bank,own,1,unemployed,1,none,yes,No Risk
+512,less_0,16,prior_payments_delayed,furniture,3457,less_100,1_to_4,3,male,co-applicant,3,unknown,51,none,own,1,skilled,1,yes,yes,No Risk
+513,less_0,16,prior_payments_delayed,radio_tv,1332,greater_1000,1_to_4,2,male,co-applicant,2,car_other,38,stores,own,2,skilled,1,yes,yes,Risk
+514,less_0,16,prior_payments_delayed,retraining,1781,less_100,4_to_7,3,female,none,3,car_other,35,stores,rent,1,skilled,1,none,yes,No Risk
+515,less_0,17,all_credits_paid_back,car_used,2817,less_100,1_to_4,2,female,none,3,real_estate,33,none,own,1,skilled,1,none,yes,No Risk
+516,less_0,17,credits_paid_to_date,car_new,1382,less_100,less_1,2,male,none,3,savings_insurance,19,none,own,1,skilled,1,none,yes,No Risk
+517,less_0,17,credits_paid_to_date,car_new,1880,less_100,less_1,3,female,co-applicant,2,savings_insurance,41,none,own,1,skilled,1,none,yes,No Risk
+518,less_0,17,credits_paid_to_date,car_used,2624,less_100,4_to_7,3,male,none,2,car_other,33,none,own,2,skilled,1,yes,yes,Risk
+519,less_0,17,prior_payments_delayed,car_new,250,100_to_500,1_to_4,2,female,none,2,real_estate,34,stores,rent,1,skilled,1,none,yes,No Risk
+520,less_0,17,prior_payments_delayed,radio_tv,1721,100_to_500,1_to_4,3,male,none,3,car_other,29,bank,rent,2,unskilled,1,yes,yes,No Risk
+521,less_0,18,credits_paid_to_date,car_used,424,less_100,1_to_4,3,female,none,2,real_estate,20,none,own,1,skilled,1,none,yes,No Risk
+522,less_0,18,credits_paid_to_date,furniture,1149,less_100,less_1,3,female,co-applicant,2,real_estate,44,stores,own,2,unskilled,1,yes,yes,No Risk
+523,less_0,18,no_credits,vacation,293,less_100,less_1,1,female,none,1,savings_insurance,24,stores,rent,1,skilled,1,none,yes,No Risk
+524,less_0,18,prior_payments_delayed,car_new,1661,100_to_500,1_to_4,2,female,co-applicant,3,car_other,35,bank,own,2,unskilled,1,yes,yes,No Risk
+525,less_0,18,prior_payments_delayed,furniture,1079,less_100,less_1,1,female,none,2,real_estate,35,stores,own,2,skilled,2,yes,yes,No Risk
+526,less_0,18,prior_payments_delayed,radio_tv,250,500_to_1000,greater_7,3,male,co-applicant,3,car_other,36,stores,rent,1,unskilled,1,yes,yes,Risk
+527,less_0,19,all_credits_paid_back,car_used,1682,100_to_500,4_to_7,3,male,none,3,real_estate,36,none,own,1,skilled,1,none,yes,No Risk
+528,less_0,19,credits_paid_to_date,car_used,1248,500_to_1000,1_to_4,3,female,none,3,car_other,27,stores,own,1,skilled,2,none,yes,No Risk
+529,less_0,19,credits_paid_to_date,car_used,2634,less_100,less_1,1,male,none,1,real_estate,23,stores,own,1,unskilled,1,none,yes,No Risk
+530,less_0,19,credits_paid_to_date,car_used,3730,500_to_1000,4_to_7,3,female,co-applicant,2,savings_insurance,25,bank,own,1,unemployed,1,yes,yes,No Risk
+531,less_0,19,credits_paid_to_date,furniture,1722,less_100,less_1,2,female,none,3,real_estate,21,none,own,1,skilled,1,none,yes,No Risk
+532,less_0,19,credits_paid_to_date,radio_tv,4040,less_100,4_to_7,3,male,none,3,savings_insurance,31,none,own,2,skilled,1,yes,yes,Risk
+533,less_0,19,credits_paid_to_date,repairs,250,less_100,less_1,1,female,none,1,real_estate,19,stores,rent,1,skilled,1,none,yes,No Risk
+534,less_0,19,credits_paid_to_date,vacation,1417,less_100,less_1,3,female,none,1,car_other,33,none,rent,1,skilled,1,none,yes,No Risk
+535,less_0,19,credits_paid_to_date,vacation,3268,less_100,1_to_4,3,female,none,2,savings_insurance,22,none,own,1,skilled,1,none,yes,No Risk
+536,less_0,19,prior_payments_delayed,appliances,3691,500_to_1000,1_to_4,3,male,co-applicant,4,savings_insurance,34,none,own,1,skilled,1,yes,yes,Risk
+537,less_0,19,prior_payments_delayed,furniture,250,less_100,less_1,2,male,none,3,savings_insurance,19,stores,own,1,skilled,1,none,yes,No Risk
+538,less_0,20,credits_paid_to_date,car_new,250,less_100,4_to_7,2,female,none,2,real_estate,32,stores,own,1,skilled,1,none,yes,No Risk
+539,less_0,20,credits_paid_to_date,car_new,2986,less_100,1_to_4,3,male,none,2,real_estate,47,none,own,1,skilled,1,yes,yes,No Risk
+540,less_0,20,credits_paid_to_date,car_new,3786,less_100,less_1,3,male,co-applicant,3,real_estate,35,none,own,2,skilled,1,none,yes,No Risk
+541,less_0,20,credits_paid_to_date,car_used,2218,less_100,1_to_4,3,male,none,2,savings_insurance,21,bank,rent,1,unemployed,1,none,yes,No Risk
+542,less_0,20,credits_paid_to_date,furniture,3801,500_to_1000,1_to_4,2,female,none,1,car_other,22,bank,own,1,unemployed,1,yes,yes,No Risk
+543,less_0,20,credits_paid_to_date,furniture,4264,less_100,less_1,2,male,none,2,car_other,25,none,own,1,skilled,1,none,yes,No Risk
+544,less_0,20,credits_paid_to_date,retraining,250,500_to_1000,4_to_7,1,male,none,2,car_other,28,stores,rent,1,unskilled,1,none,yes,No Risk
+545,less_0,20,credits_paid_to_date,retraining,4595,less_100,4_to_7,3,male,none,3,savings_insurance,37,bank,own,1,unemployed,1,none,yes,No Risk
+546,less_0,20,prior_payments_delayed,car_used,250,less_100,4_to_7,2,female,none,2,savings_insurance,23,stores,own,1,unskilled,1,none,yes,No Risk
+547,less_0,20,prior_payments_delayed,car_used,1179,less_100,1_to_4,2,female,co-applicant,2,car_other,55,stores,free,1,unskilled,1,yes,yes,Risk
+548,less_0,20,prior_payments_delayed,furniture,1699,100_to_500,1_to_4,3,male,none,3,car_other,27,none,own,2,skilled,1,none,yes,No Risk
+549,less_0,21,credits_paid_to_date,car_new,250,500_to_1000,4_to_7,3,male,none,2,real_estate,19,bank,rent,1,unemployed,1,none,yes,No Risk
+550,less_0,21,credits_paid_to_date,furniture,250,100_to_500,4_to_7,3,male,none,2,savings_insurance,28,stores,own,1,unskilled,1,none,yes,No Risk
+551,less_0,21,prior_payments_delayed,car_used,1730,500_to_1000,less_1,2,male,none,2,savings_insurance,33,stores,rent,2,unskilled,1,yes,yes,No Risk
+552,less_0,21,prior_payments_delayed,radio_tv,2085,less_100,4_to_7,3,female,none,2,savings_insurance,30,stores,own,1,skilled,1,none,yes,No Risk
+553,less_0,22,credits_paid_to_date,car_new,250,less_100,less_1,1,male,none,3,savings_insurance,19,stores,rent,1,skilled,1,none,yes,No Risk
+554,less_0,22,credits_paid_to_date,car_used,2080,500_to_1000,4_to_7,3,female,none,1,savings_insurance,36,stores,own,1,skilled,1,none,yes,No Risk
+555,less_0,22,credits_paid_to_date,vacation,2627,less_100,1_to_4,3,female,none,1,car_other,34,bank,rent,1,unemployed,1,none,yes,No Risk
+556,less_0,22,prior_payments_delayed,car_used,1254,100_to_500,less_1,2,female,none,1,savings_insurance,28,stores,rent,1,skilled,1,none,yes,No Risk
+557,less_0,22,prior_payments_delayed,car_used,1273,500_to_1000,1_to_4,3,female,none,3,savings_insurance,36,stores,own,1,skilled,1,yes,no,Risk
+558,less_0,22,prior_payments_delayed,furniture,1779,greater_1000,greater_7,3,male,none,3,car_other,31,stores,own,2,skilled,2,yes,yes,Risk
+559,less_0,22,prior_payments_delayed,radio_tv,2131,greater_1000,4_to_7,3,male,co-applicant,4,car_other,49,none,own,2,skilled,1,yes,yes,No Risk
+560,less_0,23,credits_paid_to_date,business,2683,100_to_500,1_to_4,3,male,none,3,savings_insurance,29,none,rent,1,skilled,1,none,yes,No Risk
+561,less_0,23,credits_paid_to_date,repairs,2951,500_to_1000,4_to_7,2,male,none,3,savings_insurance,31,stores,rent,2,unskilled,1,none,yes,No Risk
+562,less_0,23,prior_payments_delayed,furniture,3379,less_100,greater_7,4,male,none,2,car_other,42,none,own,1,skilled,1,none,yes,No Risk
+563,less_0,23,prior_payments_delayed,furniture,7095,less_100,1_to_4,4,female,none,3,car_other,40,none,own,2,skilled,2,none,yes,No Risk
+564,less_0,24,credits_paid_to_date,car_new,501,500_to_1000,4_to_7,3,female,none,1,savings_insurance,26,stores,own,2,unskilled,2,yes,yes,No Risk
+565,less_0,24,prior_payments_delayed,car_new,2283,less_100,less_1,2,female,none,1,real_estate,23,stores,own,1,skilled,1,none,yes,No Risk
+566,less_0,24,prior_payments_delayed,car_used,250,100_to_500,4_to_7,3,female,none,2,savings_insurance,21,stores,rent,1,skilled,1,none,yes,No Risk
+567,less_0,24,prior_payments_delayed,radio_tv,1964,500_to_1000,1_to_4,3,female,co-applicant,3,car_other,46,stores,own,1,unskilled,1,none,yes,Risk
+568,less_0,25,all_credits_paid_back,car_new,250,500_to_1000,1_to_4,2,male,none,3,real_estate,23,none,rent,2,skilled,1,none,yes,No Risk
+569,less_0,25,credits_paid_to_date,car_new,2783,less_100,less_1,3,male,none,3,savings_insurance,22,none,rent,1,skilled,1,none,yes,Risk
+570,less_0,25,prior_payments_delayed,car_used,3227,100_to_500,4_to_7,3,male,none,2,unknown,27,none,rent,1,skilled,1,none,yes,No Risk
+571,less_0,26,credits_paid_to_date,business,6052,less_100,1_to_4,3,male,none,2,car_other,28,none,own,2,skilled,1,none,yes,No Risk
+572,less_0,26,credits_paid_to_date,repairs,573,less_100,1_to_4,2,male,none,2,real_estate,22,stores,own,1,skilled,1,none,yes,No Risk
+573,less_0,26,outstanding_credit,radio_tv,1853,100_to_500,greater_7,4,female,none,2,car_other,37,stores,own,1,unskilled,1,none,yes,No Risk
+574,less_0,27,credits_paid_to_date,furniture,1820,500_to_1000,4_to_7,3,female,none,3,savings_insurance,33,stores,own,1,skilled,1,none,yes,No Risk
+575,less_0,27,credits_paid_to_date,radio_tv,2107,500_to_1000,less_1,3,male,none,3,savings_insurance,36,none,rent,1,skilled,1,none,yes,No Risk
+576,less_0,27,prior_payments_delayed,furniture,3170,greater_1000,1_to_4,2,male,none,2,car_other,28,stores,rent,1,skilled,1,none,yes,Risk
+577,less_0,28,outstanding_credit,furniture,4197,100_to_500,1_to_4,3,female,none,3,car_other,34,stores,own,1,skilled,1,none,yes,No Risk
+578,less_0,28,outstanding_credit,repairs,250,500_to_1000,1_to_4,2,female,none,2,real_estate,41,stores,own,1,skilled,1,yes,yes,No Risk
+579,less_0,29,credits_paid_to_date,furniture,2343,less_100,1_to_4,2,male,none,3,car_other,33,stores,own,1,skilled,1,yes,yes,Risk
+580,less_0,29,credits_paid_to_date,radio_tv,4399,less_100,1_to_4,3,female,none,2,savings_insurance,25,stores,own,2,skilled,1,none,yes,No Risk
+581,less_0,29,outstanding_credit,furniture,1809,greater_1000,1_to_4,2,male,none,3,savings_insurance,42,stores,own,2,skilled,1,none,yes,Risk
+582,less_0,29,outstanding_credit,radio_tv,1751,100_to_500,1_to_4,3,male,none,3,savings_insurance,32,none,own,2,skilled,1,none,yes,No Risk
+583,less_0,30,outstanding_credit,car_used,2549,500_to_1000,4_to_7,3,male,none,2,car_other,36,none,own,1,skilled,2,yes,yes,No Risk
+584,less_0,30,outstanding_credit,education,1584,100_to_500,4_to_7,2,male,none,3,savings_insurance,33,none,rent,3,skilled,1,yes,yes,Risk
+585,less_0,30,outstanding_credit,radio_tv,2180,greater_1000,greater_7,3,female,co-applicant,3,car_other,52,stores,own,2,unskilled,1,yes,yes,Risk
+586,less_0,30,prior_payments_delayed,appliances,2773,100_to_500,greater_7,3,female,none,2,savings_insurance,41,stores,own,1,skilled,1,none,yes,No Risk
+587,less_0,30,prior_payments_delayed,car_used,2246,100_to_500,greater_7,4,female,none,2,savings_insurance,31,stores,own,1,skilled,1,none,yes,Risk
+588,less_0,31,credits_paid_to_date,furniture,2481,greater_1000,1_to_4,3,male,co-applicant,3,car_other,47,stores,rent,1,unemployed,1,yes,yes,No Risk
+589,less_0,31,credits_paid_to_date,radio_tv,2246,less_100,less_1,2,male,none,1,real_estate,23,bank,rent,1,unemployed,1,yes,yes,No Risk
+590,less_0,31,outstanding_credit,other,4795,100_to_500,greater_7,3,male,none,2,car_other,33,none,free,2,skilled,1,yes,yes,No Risk
+591,less_0,32,credits_paid_to_date,radio_tv,1515,greater_1000,greater_7,4,male,co-applicant,2,savings_insurance,39,stores,own,1,skilled,1,yes,yes,No Risk
+592,less_0,35,outstanding_credit,other,6529,100_to_500,1_to_4,4,male,none,3,unknown,32,none,own,1,skilled,1,none,yes,Risk
+593,less_0,35,prior_payments_delayed,radio_tv,3875,greater_1000,4_to_7,2,male,none,2,unknown,37,stores,own,2,unskilled,1,none,yes,No Risk
+594,less_0,39,outstanding_credit,appliances,4131,100_to_500,1_to_4,4,male,none,4,unknown,29,bank,own,1,unskilled,1,yes,yes,No Risk
+595,no_checking,8,all_credits_paid_back,furniture,1726,less_100,less_1,3,female,none,2,savings_insurance,26,stores,own,1,skilled,1,none,yes,No Risk
+596,no_checking,8,all_credits_paid_back,radio_tv,288,500_to_1000,1_to_4,3,male,co-applicant,3,real_estate,42,none,own,1,skilled,1,none,yes,No Risk
+597,no_checking,8,credits_paid_to_date,car_new,250,less_100,less_1,2,female,none,2,real_estate,38,none,own,1,skilled,1,none,yes,No Risk
+598,no_checking,8,credits_paid_to_date,car_new,2099,less_100,1_to_4,2,female,none,2,car_other,41,none,free,1,skilled,1,yes,yes,No Risk
+599,no_checking,8,credits_paid_to_date,car_new,3460,greater_1000,4_to_7,2,male,guarantor,4,savings_insurance,46,none,own,1,skilled,1,yes,yes,Risk
+600,no_checking,8,credits_paid_to_date,car_new,3676,greater_1000,1_to_4,2,male,none,4,car_other,31,none,rent,1,skilled,1,none,yes,No Risk
+601,no_checking,8,credits_paid_to_date,car_new,4222,500_to_1000,1_to_4,3,female,none,4,car_other,36,none,own,2,skilled,1,none,yes,No Risk
+602,no_checking,8,credits_paid_to_date,car_new,4387,100_to_500,4_to_7,4,female,none,3,car_other,31,none,own,2,skilled,2,none,yes,Risk
+603,no_checking,8,credits_paid_to_date,car_used,1654,less_100,1_to_4,2,male,none,2,savings_insurance,36,none,own,1,skilled,1,yes,yes,No Risk
+604,no_checking,8,credits_paid_to_date,car_used,2666,100_to_500,1_to_4,2,male,co-applicant,2,real_estate,38,bank,own,2,unemployed,1,yes,yes,No Risk
+605,no_checking,8,credits_paid_to_date,car_used,3321,greater_1000,1_to_4,3,male,none,3,real_estate,30,none,own,3,management_self-employed,2,yes,yes,No Risk
+606,no_checking,8,credits_paid_to_date,car_used,3925,less_100,4_to_7,2,male,none,3,real_estate,31,none,own,2,management_self-employed,1,none,yes,Risk
+607,no_checking,8,credits_paid_to_date,furniture,1475,less_100,1_to_4,3,male,none,3,real_estate,39,none,own,1,skilled,1,yes,yes,No Risk
+608,no_checking,8,credits_paid_to_date,furniture,3007,greater_1000,less_1,2,male,none,4,car_other,37,none,own,1,skilled,1,none,yes,No Risk
+609,no_checking,8,credits_paid_to_date,furniture,6365,less_100,1_to_4,4,male,none,3,savings_insurance,25,none,own,2,management_self-employed,1,none,yes,Risk
+610,no_checking,8,prior_payments_delayed,car_new,899,100_to_500,4_to_7,2,male,none,3,savings_insurance,27,bank,own,1,unskilled,1,yes,yes,No Risk
+611,no_checking,8,prior_payments_delayed,car_new,1233,greater_1000,1_to_4,3,male,none,3,savings_insurance,24,none,own,2,skilled,1,yes,yes,No Risk
+612,no_checking,8,prior_payments_delayed,car_new,2008,greater_1000,greater_7,4,male,none,2,real_estate,27,none,own,2,skilled,1,yes,yes,No Risk
+613,no_checking,8,prior_payments_delayed,car_used,4969,100_to_500,1_to_4,3,female,none,2,savings_insurance,48,none,own,2,skilled,1,none,yes,Risk
+614,no_checking,8,prior_payments_delayed,radio_tv,6144,500_to_1000,4_to_7,4,male,none,3,car_other,40,stores,own,1,unskilled,1,none,yes,No Risk
+615,no_checking,9,prior_payments_delayed,car_new,933,500_to_1000,greater_7,3,male,none,3,car_other,54,none,free,2,skilled,1,yes,yes,No Risk
+616,no_checking,10,credits_paid_to_date,car_used,5056,less_100,4_to_7,3,male,none,3,savings_insurance,47,none,own,3,skilled,1,yes,yes,Risk
+617,no_checking,10,prior_payments_delayed,radio_tv,4312,100_to_500,less_1,3,female,none,3,car_other,38,none,own,1,skilled,2,yes,yes,No Risk
+618,no_checking,11,credits_paid_to_date,car_new,3228,100_to_500,4_to_7,3,female,none,4,car_other,34,none,own,2,skilled,1,yes,yes,Risk
+619,no_checking,11,credits_paid_to_date,car_new,3930,less_100,4_to_7,3,male,none,4,savings_insurance,26,stores,own,1,unskilled,1,yes,yes,No Risk
+620,no_checking,11,outstanding_credit,furniture,3203,100_to_500,1_to_4,2,male,none,4,car_other,43,stores,own,1,unskilled,2,yes,yes,No Risk
+621,no_checking,12,all_credits_paid_back,car_new,1927,500_to_1000,less_1,3,male,none,3,savings_insurance,36,none,own,1,skilled,1,yes,yes,No Risk
+622,no_checking,12,all_credits_paid_back,furniture,373,500_to_1000,1_to_4,1,male,co-applicant,2,savings_insurance,33,none,rent,1,skilled,1,none,yes,No Risk
+623,no_checking,12,all_credits_paid_back,vacation,868,500_to_1000,unemployed,3,female,none,3,savings_insurance,26,none,rent,1,skilled,1,none,yes,No Risk
+624,no_checking,12,all_credits_paid_back,vacation,1529,500_to_1000,4_to_7,3,female,none,3,savings_insurance,32,none,own,1,skilled,1,none,yes,No Risk
+625,no_checking,12,credits_paid_to_date,car_new,484,100_to_500,less_1,2,female,none,2,real_estate,29,none,own,1,skilled,1,none,yes,No Risk
+626,no_checking,12,credits_paid_to_date,car_used,3389,less_100,1_to_4,2,male,none,3,real_estate,25,none,own,1,management_self-employed,1,none,yes,No Risk
+627,no_checking,12,credits_paid_to_date,furniture,7114,less_100,1_to_4,3,male,none,3,savings_insurance,40,none,free,2,management_self-employed,1,none,yes,Risk
+628,no_checking,12,outstanding_credit,business,3223,unknown,1_to_4,4,male,none,3,car_other,35,none,rent,1,management_self-employed,1,none,yes,No Risk
+629,no_checking,12,outstanding_credit,repairs,6411,greater_1000,1_to_4,3,male,none,3,unknown,46,none,own,2,skilled,1,yes,yes,Risk
+630,no_checking,13,credits_paid_to_date,furniture,3180,less_100,4_to_7,4,male,none,4,savings_insurance,34,bank,own,1,unskilled,2,yes,yes,No Risk
+631,no_checking,14,credits_paid_to_date,car_new,3531,100_to_500,1_to_4,3,female,none,4,savings_insurance,43,none,own,1,skilled,1,none,yes,No Risk
+632,no_checking,14,credits_paid_to_date,car_new,3996,less_100,less_1,3,male,none,3,savings_insurance,34,none,own,1,management_self-employed,1,yes,yes,No Risk
+633,no_checking,14,credits_paid_to_date,car_used,3162,500_to_1000,4_to_7,3,male,none,3,car_other,33,bank,own,2,unskilled,2,yes,no,No Risk
+634,no_checking,14,credits_paid_to_date,furniture,1269,500_to_1000,greater_7,2,male,none,2,savings_insurance,39,none,own,1,skilled,1,none,yes,No Risk
+635,no_checking,14,credits_paid_to_date,furniture,1810,100_to_500,4_to_7,3,male,none,4,savings_insurance,39,none,own,2,skilled,1,yes,yes,Risk
+636,no_checking,14,credits_paid_to_date,retraining,7699,less_100,less_1,4,female,none,3,car_other,37,none,own,2,management_self-employed,2,none,yes,No Risk
+637,no_checking,14,outstanding_credit,radio_tv,1582,greater_1000,less_1,2,male,none,3,savings_insurance,34,none,own,1,skilled,1,none,yes,No Risk
+638,no_checking,14,outstanding_credit,retraining,7135,greater_1000,1_to_4,4,male,none,4,car_other,40,none,own,2,management_self-employed,1,yes,yes,No Risk
+639,no_checking,14,prior_payments_delayed,radio_tv,6774,100_to_500,4_to_7,4,female,none,3,car_other,32,none,own,2,management_self-employed,1,none,yes,No Risk
+640,no_checking,15,credits_paid_to_date,car_new,2685,100_to_500,4_to_7,4,female,none,2,savings_insurance,46,stores,rent,1,unskilled,1,none,yes,No Risk
+641,no_checking,15,credits_paid_to_date,car_new,4623,less_100,4_to_7,4,male,none,4,car_other,51,none,own,1,management_self-employed,1,none,no,No Risk
+642,no_checking,15,outstanding_credit,education,1921,100_to_500,1_to_4,3,male,co-applicant,4,car_other,39,none,free,1,skilled,1,yes,yes,No Risk
+643,no_checking,15,outstanding_credit,radio_tv,7200,100_to_500,greater_7,4,male,none,5,car_other,42,none,own,2,skilled,1,yes,yes,No Risk
+644,no_checking,15,prior_payments_delayed,furniture,4274,100_to_500,greater_7,4,male,none,5,car_other,40,stores,own,2,unskilled,1,yes,no,Risk
+645,no_checking,16,credits_paid_to_date,car_new,2467,100_to_500,1_to_4,3,male,none,3,car_other,37,none,rent,1,skilled,1,yes,yes,No Risk
+646,no_checking,16,credits_paid_to_date,car_new,4810,less_100,1_to_4,4,male,none,4,car_other,31,none,own,1,management_self-employed,1,none,yes,Risk
+647,no_checking,16,credits_paid_to_date,radio_tv,2522,100_to_500,1_to_4,3,male,none,4,savings_insurance,35,none,rent,1,management_self-employed,2,none,yes,Risk
+648,no_checking,16,outstanding_credit,car_used,7282,500_to_1000,less_1,4,male,none,5,car_other,35,none,free,2,management_self-employed,1,yes,yes,No Risk
+649,no_checking,17,credits_paid_to_date,car_new,3347,100_to_500,4_to_7,3,female,none,4,car_other,31,none,own,1,skilled,2,none,yes,Risk
+650,no_checking,17,credits_paid_to_date,car_used,1841,100_to_500,less_1,2,male,none,2,real_estate,35,none,own,1,skilled,1,none,yes,No Risk
+651,no_checking,17,credits_paid_to_date,radio_tv,4533,greater_1000,1_to_4,4,male,none,3,real_estate,29,none,rent,2,management_self-employed,1,none,yes,No Risk
+652,no_checking,17,credits_paid_to_date,retraining,5542,greater_1000,less_1,3,male,none,3,savings_insurance,29,none,own,1,management_self-employed,1,none,yes,No Risk
+653,no_checking,17,outstanding_credit,car_used,1501,unknown,greater_7,4,female,none,5,car_other,45,none,own,2,skilled,2,yes,yes,Risk
+654,no_checking,17,outstanding_credit,radio_tv,1818,greater_1000,4_to_7,3,male,none,4,car_other,41,none,own,1,skilled,1,none,yes,Risk
+655,no_checking,17,prior_payments_delayed,radio_tv,1492,500_to_1000,greater_7,3,female,none,2,savings_insurance,46,none,own,1,skilled,1,none,yes,No Risk
+656,no_checking,18,credits_paid_to_date,car_new,4892,100_to_500,less_1,3,male,none,3,savings_insurance,21,none,own,1,management_self-employed,1,none,yes,No Risk
+657,no_checking,18,credits_paid_to_date,radio_tv,2405,100_to_500,4_to_7,4,female,none,2,savings_insurance,46,none,own,1,skilled,1,none,yes,Risk
+658,no_checking,18,prior_payments_delayed,radio_tv,4010,unknown,4_to_7,3,male,none,3,unknown,34,stores,rent,1,unskilled,1,yes,yes,No Risk
+659,no_checking,19,all_credits_paid_back,car_new,1593,less_100,1_to_4,2,female,none,3,real_estate,27,none,free,1,skilled,1,none,yes,Risk
+660,no_checking,19,all_credits_paid_back,furniture,3418,less_100,unemployed,3,male,none,3,savings_insurance,25,none,own,1,management_self-employed,1,none,yes,No Risk
+661,no_checking,19,credits_paid_to_date,car_new,2274,greater_1000,1_to_4,3,male,none,2,real_estate,24,none,own,2,skilled,1,none,yes,Risk
+662,no_checking,19,credits_paid_to_date,car_used,2574,greater_1000,1_to_4,2,female,none,3,savings_insurance,28,none,own,1,skilled,1,none,yes,No Risk
+663,no_checking,19,credits_paid_to_date,radio_tv,1426,less_100,less_1,1,female,none,3,real_estate,22,none,own,1,skilled,1,none,yes,No Risk
+664,no_checking,19,credits_paid_to_date,radio_tv,2238,500_to_1000,1_to_4,3,female,none,2,car_other,27,none,free,2,skilled,1,none,yes,No Risk
+665,no_checking,19,credits_paid_to_date,radio_tv,2339,100_to_500,less_1,3,male,none,4,savings_insurance,39,none,own,1,skilled,1,yes,yes,No Risk
+666,no_checking,19,credits_paid_to_date,radio_tv,2604,100_to_500,greater_7,4,male,none,3,savings_insurance,32,none,own,1,skilled,1,none,yes,Risk
+667,no_checking,19,outstanding_credit,appliances,1939,500_to_1000,1_to_4,3,male,none,2,savings_insurance,31,none,free,1,skilled,1,yes,yes,No Risk
+668,no_checking,19,outstanding_credit,business,4429,500_to_1000,greater_7,3,male,none,4,car_other,39,none,own,1,management_self-employed,1,none,yes,Risk
+669,no_checking,19,outstanding_credit,business,8785,100_to_500,greater_7,4,male,none,4,unknown,53,none,free,2,management_self-employed,1,yes,yes,Risk
+670,no_checking,19,outstanding_credit,radio_tv,7818,100_to_500,4_to_7,3,female,none,4,unknown,40,none,own,1,management_self-employed,1,yes,yes,Risk
+671,no_checking,20,credits_paid_to_date,car_new,4747,100_to_500,less_1,3,male,none,4,car_other,34,none,rent,2,management_self-employed,1,yes,yes,No Risk
+672,no_checking,20,credits_paid_to_date,education,4071,100_to_500,1_to_4,4,male,none,3,car_other,45,none,own,2,skilled,1,none,yes,No Risk
+673,no_checking,20,outstanding_credit,furniture,6301,unknown,4_to_7,4,female,none,5,unknown,49,none,own,2,skilled,2,yes,no,Risk
+674,no_checking,20,outstanding_credit,radio_tv,7217,greater_1000,1_to_4,4,male,none,5,savings_insurance,37,none,own,2,management_self-employed,2,yes,yes,No Risk
+675,no_checking,21,credits_paid_to_date,car_new,1127,unknown,1_to_4,3,male,none,3,real_estate,21,none,own,1,skilled,2,yes,yes,Risk
+676,no_checking,21,credits_paid_to_date,car_used,3614,less_100,less_1,3,male,none,4,savings_insurance,35,none,own,2,management_self-employed,1,yes,yes,No Risk
+677,no_checking,21,outstanding_credit,car_used,2290,500_to_1000,4_to_7,4,male,none,4,savings_insurance,52,none,own,1,skilled,1,yes,yes,Risk
+678,no_checking,21,outstanding_credit,radio_tv,3662,500_to_1000,greater_7,4,male,none,3,savings_insurance,39,none,own,1,skilled,1,none,yes,No Risk
+679,no_checking,21,prior_payments_delayed,radio_tv,5852,unknown,1_to_4,4,female,co-applicant,4,savings_insurance,41,bank,own,2,unemployed,1,yes,yes,Risk
+680,no_checking,22,credits_paid_to_date,radio_tv,1131,100_to_500,1_to_4,2,male,none,3,car_other,31,none,own,1,skilled,1,yes,yes,No Risk
+681,no_checking,22,credits_paid_to_date,radio_tv,5339,100_to_500,greater_7,4,female,none,5,savings_insurance,48,none,own,2,management_self-employed,1,yes,yes,Risk
+682,no_checking,22,outstanding_credit,appliances,3621,unknown,4_to_7,4,male,none,4,savings_insurance,31,none,own,1,skilled,1,none,yes,Risk
+683,no_checking,22,outstanding_credit,appliances,4993,unknown,4_to_7,4,male,none,3,car_other,48,stores,own,2,unskilled,2,yes,yes,No Risk
+684,no_checking,22,prior_payments_delayed,radio_tv,3273,100_to_500,1_to_4,3,male,none,4,savings_insurance,28,none,own,1,management_self-employed,1,yes,yes,No Risk
+685,no_checking,23,all_credits_paid_back,retraining,1739,less_100,4_to_7,2,male,none,3,real_estate,38,none,own,1,skilled,2,none,yes,No Risk
+686,no_checking,23,credits_paid_to_date,radio_tv,2881,100_to_500,less_1,2,female,none,2,savings_insurance,37,none,free,1,skilled,1,none,yes,No Risk
+687,no_checking,23,outstanding_credit,appliances,7682,500_to_1000,1_to_4,3,male,none,4,car_other,41,stores,own,1,unskilled,1,yes,yes,Risk
+688,no_checking,23,outstanding_credit,car_used,1968,500_to_1000,1_to_4,3,female,none,3,real_estate,34,none,own,1,skilled,2,none,yes,No Risk
+689,no_checking,23,prior_payments_delayed,car_used,7744,100_to_500,greater_7,3,male,co-applicant,4,car_other,39,none,free,2,management_self-employed,1,none,yes,Risk
+690,no_checking,23,prior_payments_delayed,furniture,2713,100_to_500,greater_7,4,male,none,4,savings_insurance,26,stores,own,1,unskilled,1,none,yes,Risk
+691,no_checking,23,prior_payments_delayed,radio_tv,2298,500_to_1000,1_to_4,2,male,none,2,real_estate,43,none,own,2,skilled,1,none,yes,Risk
+692,no_checking,23,prior_payments_delayed,radio_tv,2775,100_to_500,greater_7,3,male,co-applicant,4,savings_insurance,28,none,own,1,skilled,1,none,yes,No Risk
+693,no_checking,23,prior_payments_delayed,retraining,2066,100_to_500,1_to_4,4,male,none,3,savings_insurance,28,none,own,1,skilled,1,yes,yes,No Risk
+694,no_checking,24,all_credits_paid_back,car_new,1987,less_100,4_to_7,2,male,none,4,savings_insurance,25,bank,own,1,unemployed,1,none,yes,No Risk
+695,no_checking,24,credits_paid_to_date,car_new,949,100_to_500,unemployed,3,male,none,3,real_estate,33,none,rent,1,skilled,1,none,yes,No Risk
+696,no_checking,24,outstanding_credit,appliances,10370,unknown,greater_7,5,male,co-applicant,5,unknown,58,none,free,2,skilled,2,yes,yes,Risk
+697,no_checking,24,outstanding_credit,car_used,4545,500_to_1000,4_to_7,4,male,none,5,car_other,42,none,own,1,management_self-employed,1,yes,no,No Risk
+698,no_checking,24,outstanding_credit,car_used,4620,greater_1000,1_to_4,3,male,none,4,savings_insurance,40,none,own,2,skilled,1,yes,yes,No Risk
+699,no_checking,24,outstanding_credit,car_used,4793,greater_1000,4_to_7,3,male,none,4,savings_insurance,38,none,own,2,skilled,1,none,yes,Risk
+700,no_checking,24,outstanding_credit,car_used,5064,500_to_1000,4_to_7,4,male,none,2,car_other,49,none,own,2,skilled,1,none,yes,No Risk
+701,no_checking,24,outstanding_credit,car_used,6468,500_to_1000,1_to_4,4,male,none,3,car_other,28,none,own,2,management_self-employed,1,yes,yes,No Risk
+702,no_checking,24,outstanding_credit,furniture,5961,500_to_1000,1_to_4,4,male,none,4,car_other,50,none,own,3,skilled,1,yes,yes,Risk
+703,no_checking,24,outstanding_credit,radio_tv,4774,500_to_1000,greater_7,3,female,none,3,savings_insurance,53,none,free,2,skilled,1,yes,yes,Risk
+704,no_checking,24,prior_payments_delayed,appliances,9361,100_to_500,4_to_7,4,male,co-applicant,3,unknown,44,none,own,2,skilled,1,yes,yes,Risk
+705,no_checking,24,prior_payments_delayed,business,4404,100_to_500,4_to_7,3,male,none,4,unknown,54,none,own,1,skilled,1,yes,yes,Risk
+706,no_checking,24,prior_payments_delayed,car_used,1637,100_to_500,1_to_4,3,male,none,4,real_estate,33,none,rent,1,management_self-employed,1,yes,yes,No Risk
+707,no_checking,24,prior_payments_delayed,car_used,5013,500_to_1000,4_to_7,3,male,none,4,savings_insurance,39,none,own,2,management_self-employed,1,none,yes,No Risk
+708,no_checking,24,prior_payments_delayed,education,4427,greater_1000,greater_7,3,female,none,4,car_other,46,bank,own,2,unemployed,1,none,yes,Risk
+709,no_checking,24,prior_payments_delayed,furniture,8067,100_to_500,4_to_7,4,female,none,3,unknown,51,none,free,2,skilled,1,yes,yes,Risk
+710,no_checking,24,prior_payments_delayed,radio_tv,4059,100_to_500,greater_7,4,male,guarantor,3,unknown,60,none,free,3,skilled,1,yes,no,Risk
+711,no_checking,24,prior_payments_delayed,radio_tv,4295,100_to_500,1_to_4,3,male,none,4,car_other,51,none,own,2,management_self-employed,1,yes,yes,No Risk
+712,no_checking,24,prior_payments_delayed,radio_tv,4706,100_to_500,1_to_4,3,female,none,3,car_other,46,none,own,1,skilled,1,none,yes,Risk
+713,no_checking,24,prior_payments_delayed,radio_tv,6438,100_to_500,1_to_4,3,female,none,4,car_other,45,none,own,1,skilled,1,yes,yes,No Risk
+714,no_checking,25,all_credits_paid_back,radio_tv,5900,100_to_500,4_to_7,3,male,none,2,car_other,42,bank,own,2,unemployed,1,yes,yes,No Risk
+715,no_checking,25,outstanding_credit,appliances,7795,500_to_1000,1_to_4,3,female,none,4,car_other,49,none,own,2,skilled,1,none,yes,Risk
+716,no_checking,25,outstanding_credit,furniture,4019,500_to_1000,1_to_4,3,male,none,5,car_other,35,none,free,2,management_self-employed,1,yes,yes,Risk
+717,no_checking,25,outstanding_credit,furniture,7195,500_to_1000,greater_7,5,male,co-applicant,3,unknown,65,none,free,3,skilled,2,yes,yes,Risk
+718,no_checking,25,prior_payments_delayed,appliances,6292,100_to_500,greater_7,4,female,none,4,savings_insurance,51,none,free,2,management_self-employed,1,none,yes,Risk
+719,no_checking,25,prior_payments_delayed,car_used,1773,500_to_1000,greater_7,4,female,none,4,savings_insurance,45,none,own,1,skilled,1,yes,yes,Risk
+720,no_checking,25,prior_payments_delayed,car_used,4998,500_to_1000,4_to_7,3,male,guarantor,5,car_other,60,none,free,2,skilled,1,yes,yes,Risk
+721,no_checking,25,prior_payments_delayed,car_used,5742,100_to_500,4_to_7,4,female,none,2,unknown,42,none,own,2,skilled,1,none,no,Risk
+722,no_checking,25,prior_payments_delayed,car_used,5943,100_to_500,1_to_4,4,female,none,4,car_other,36,none,own,2,skilled,1,yes,yes,No Risk
+723,no_checking,25,prior_payments_delayed,car_used,5950,greater_1000,4_to_7,3,male,none,4,savings_insurance,40,stores,own,2,unskilled,1,yes,yes,No Risk
+724,no_checking,25,prior_payments_delayed,car_used,6092,100_to_500,less_1,4,male,none,3,savings_insurance,39,none,own,1,management_self-employed,1,none,yes,No Risk
+725,no_checking,25,prior_payments_delayed,car_used,6775,greater_1000,4_to_7,3,female,none,4,car_other,39,none,own,2,skilled,1,none,yes,Risk
+726,no_checking,25,prior_payments_delayed,car_used,6780,greater_1000,4_to_7,4,male,none,3,unknown,46,stores,own,2,unskilled,2,none,yes,No Risk
+727,no_checking,25,prior_payments_delayed,car_used,8708,100_to_500,1_to_4,4,male,none,5,car_other,43,none,free,2,management_self-employed,1,none,yes,No Risk
+728,no_checking,25,prior_payments_delayed,radio_tv,6264,100_to_500,4_to_7,3,female,none,4,unknown,44,none,own,1,skilled,1,yes,yes,Risk
+729,no_checking,26,all_credits_paid_back,radio_tv,3705,less_100,1_to_4,3,female,none,4,car_other,41,bank,own,1,unemployed,1,yes,yes,No Risk
+730,no_checking,26,outstanding_credit,business,6764,unknown,greater_7,4,male,none,3,unknown,58,none,free,2,skilled,1,yes,yes,No Risk
+731,no_checking,26,outstanding_credit,business,9574,500_to_1000,greater_7,6,male,co-applicant,5,unknown,56,stores,free,2,unskilled,2,yes,yes,No Risk
+732,no_checking,26,outstanding_credit,furniture,3573,greater_1000,greater_7,5,female,none,5,car_other,39,none,own,2,skilled,1,none,yes,Risk
+733,no_checking,26,outstanding_credit,furniture,6084,500_to_1000,greater_7,5,male,none,3,unknown,52,none,free,2,skilled,1,yes,yes,Risk
+734,no_checking,26,outstanding_credit,furniture,8166,greater_1000,greater_7,5,female,co-applicant,4,unknown,56,none,own,2,skilled,1,none,no,Risk
+735,no_checking,26,outstanding_credit,other,6324,500_to_1000,greater_7,4,male,none,4,unknown,52,none,free,2,management_self-employed,1,yes,yes,Risk
+736,no_checking,26,outstanding_credit,radio_tv,6565,500_to_1000,4_to_7,5,female,none,5,car_other,45,none,free,2,management_self-employed,1,yes,yes,Risk
+737,no_checking,26,outstanding_credit,radio_tv,6623,500_to_1000,greater_7,5,male,none,4,car_other,48,none,free,2,management_self-employed,1,yes,yes,No Risk
+738,no_checking,26,outstanding_credit,vacation,7203,unknown,greater_7,5,female,co-applicant,5,unknown,60,none,free,3,management_self-employed,2,yes,yes,Risk
+739,no_checking,26,prior_payments_delayed,appliances,2911,100_to_500,greater_7,4,male,none,5,savings_insurance,23,none,free,1,management_self-employed,1,none,yes,No Risk
+740,no_checking,26,prior_payments_delayed,appliances,4724,100_to_500,4_to_7,3,female,none,2,savings_insurance,42,none,own,1,skilled,1,none,yes,No Risk
+741,no_checking,26,prior_payments_delayed,appliances,5325,unknown,4_to_7,3,female,co-applicant,4,savings_insurance,53,stores,own,2,unskilled,1,yes,yes,Risk
+742,no_checking,26,prior_payments_delayed,appliances,5362,500_to_1000,4_to_7,4,male,none,4,savings_insurance,41,none,own,3,skilled,1,none,yes,Risk
+743,no_checking,26,prior_payments_delayed,appliances,5614,unknown,4_to_7,3,male,none,4,savings_insurance,37,none,own,2,skilled,2,none,yes,No Risk
+744,no_checking,26,prior_payments_delayed,appliances,5891,100_to_500,greater_7,4,male,none,4,unknown,58,none,free,3,skilled,2,yes,yes,Risk
+745,no_checking,26,prior_payments_delayed,business,8366,100_to_500,4_to_7,5,male,none,3,car_other,52,none,free,2,management_self-employed,1,yes,yes,No Risk
+746,no_checking,26,prior_payments_delayed,car_used,1475,unknown,greater_7,4,male,none,4,savings_insurance,46,none,own,1,skilled,2,yes,yes,No Risk
+747,no_checking,26,prior_payments_delayed,car_used,3875,500_to_1000,4_to_7,4,male,none,2,savings_insurance,42,none,own,2,skilled,1,yes,yes,Risk
+748,no_checking,26,prior_payments_delayed,car_used,5728,unknown,4_to_7,4,male,none,5,car_other,46,none,free,3,skilled,2,yes,yes,No Risk
+749,no_checking,26,prior_payments_delayed,car_used,6078,unknown,1_to_4,4,male,none,5,savings_insurance,42,none,own,2,skilled,1,none,no,Risk
+750,no_checking,26,prior_payments_delayed,car_used,6473,100_to_500,1_to_4,4,male,none,3,car_other,43,none,own,2,management_self-employed,1,none,yes,No Risk
+751,no_checking,26,prior_payments_delayed,car_used,6623,greater_1000,4_to_7,4,male,none,3,car_other,42,none,own,2,management_self-employed,1,none,yes,No Risk
+752,no_checking,26,prior_payments_delayed,furniture,6497,greater_1000,1_to_4,4,male,none,5,car_other,40,none,own,2,management_self-employed,1,none,yes,No Risk
+753,no_checking,26,prior_payments_delayed,radio_tv,4449,100_to_500,1_to_4,3,male,none,4,unknown,43,stores,own,2,unskilled,2,yes,yes,Risk
+754,no_checking,26,prior_payments_delayed,radio_tv,5299,100_to_500,greater_7,3,female,none,4,car_other,43,none,own,1,management_self-employed,1,none,yes,Risk
+755,no_checking,26,prior_payments_delayed,repairs,9104,greater_1000,greater_7,4,male,co-applicant,3,unknown,58,none,free,2,management_self-employed,2,yes,yes,Risk
+756,no_checking,27,credits_paid_to_date,furniture,4122,100_to_500,1_to_4,4,female,co-applicant,4,savings_insurance,47,none,free,1,skilled,1,yes,yes,No Risk
+757,no_checking,27,outstanding_credit,appliances,8569,500_to_1000,4_to_7,4,male,none,4,unknown,46,none,free,2,skilled,1,yes,yes,Risk
+758,no_checking,27,outstanding_credit,furniture,2266,500_to_1000,greater_7,3,male,none,3,savings_insurance,63,none,own,2,skilled,2,yes,yes,Risk
+759,no_checking,27,outstanding_credit,radio_tv,5287,500_to_1000,1_to_4,4,male,none,3,savings_insurance,40,none,free,2,management_self-employed,2,yes,yes,No Risk
+760,no_checking,27,outstanding_credit,radio_tv,5678,500_to_1000,4_to_7,4,male,none,3,unknown,54,none,free,2,skilled,1,yes,yes,Risk
+761,no_checking,27,outstanding_credit,radio_tv,8317,500_to_1000,4_to_7,4,male,co-applicant,3,unknown,47,none,free,2,skilled,1,yes,yes,Risk
+762,no_checking,27,outstanding_credit,vacation,6851,500_to_1000,4_to_7,4,male,none,4,car_other,45,none,own,2,management_self-employed,1,yes,yes,No Risk
+763,no_checking,27,prior_payments_delayed,appliances,1800,500_to_1000,4_to_7,4,male,none,4,real_estate,46,none,own,2,skilled,1,none,yes,No Risk
+764,no_checking,27,prior_payments_delayed,appliances,3303,100_to_500,1_to_4,4,male,none,4,real_estate,46,none,own,2,management_self-employed,1,none,yes,No Risk
+765,no_checking,27,prior_payments_delayed,appliances,3605,100_to_500,4_to_7,4,female,none,3,real_estate,28,none,own,2,skilled,1,yes,yes,No Risk
+766,no_checking,27,prior_payments_delayed,appliances,4164,100_to_500,4_to_7,3,female,none,4,savings_insurance,54,none,own,1,skilled,1,none,yes,No Risk
+767,no_checking,27,prior_payments_delayed,appliances,4384,100_to_500,1_to_4,4,female,none,2,real_estate,38,none,free,2,skilled,1,yes,yes,No Risk
+768,no_checking,27,prior_payments_delayed,appliances,5979,100_to_500,1_to_4,4,male,none,4,savings_insurance,39,none,own,2,management_self-employed,2,yes,yes,Risk
+769,no_checking,27,prior_payments_delayed,appliances,6932,100_to_500,4_to_7,5,female,none,4,car_other,35,none,own,1,management_self-employed,1,yes,yes,Risk
+770,no_checking,27,prior_payments_delayed,appliances,10821,greater_1000,greater_7,5,male,co-applicant,4,car_other,47,none,free,2,management_self-employed,2,yes,yes,Risk
+771,no_checking,27,prior_payments_delayed,car_used,4893,100_to_500,1_to_4,4,male,none,5,savings_insurance,44,none,own,2,management_self-employed,1,none,yes,Risk
+772,no_checking,27,prior_payments_delayed,car_used,6906,100_to_500,1_to_4,4,female,none,4,car_other,42,none,own,2,skilled,1,none,yes,No Risk
+773,no_checking,27,prior_payments_delayed,car_used,7467,100_to_500,1_to_4,3,female,co-applicant,3,unknown,40,none,own,2,management_self-employed,1,yes,yes,Risk
+774,no_checking,27,prior_payments_delayed,education,3512,100_to_500,4_to_7,3,female,none,3,car_other,30,none,own,1,skilled,1,none,yes,No Risk
+775,no_checking,27,prior_payments_delayed,education,6035,unknown,greater_7,4,female,none,4,car_other,45,none,own,2,skilled,1,none,yes,Risk
+776,no_checking,27,prior_payments_delayed,furniture,6592,unknown,4_to_7,4,male,none,5,unknown,45,none,own,2,skilled,2,yes,yes,No Risk
+777,no_checking,28,outstanding_credit,appliances,4053,unknown,greater_7,5,male,none,3,unknown,45,none,own,2,skilled,1,none,yes,Risk
+778,no_checking,28,outstanding_credit,appliances,5470,500_to_1000,4_to_7,3,male,none,4,unknown,47,none,own,1,skilled,1,none,yes,No Risk
+779,no_checking,28,outstanding_credit,business,6891,500_to_1000,4_to_7,3,female,none,4,unknown,48,none,own,2,skilled,2,yes,yes,Risk
+780,no_checking,28,outstanding_credit,repairs,7375,500_to_1000,4_to_7,5,male,none,3,unknown,53,none,free,2,management_self-employed,1,yes,yes,Risk
+781,no_checking,28,prior_payments_delayed,appliances,4503,greater_1000,4_to_7,4,male,none,3,savings_insurance,36,none,own,1,management_self-employed,2,none,yes,No Risk
+782,no_checking,28,prior_payments_delayed,appliances,5334,100_to_500,less_1,4,male,none,4,car_other,38,none,own,1,skilled,2,yes,yes,No Risk
+783,no_checking,28,prior_payments_delayed,appliances,6850,unknown,greater_7,5,male,none,4,unknown,50,stores,own,2,unskilled,2,none,yes,Risk
+784,no_checking,28,prior_payments_delayed,car_used,2989,100_to_500,4_to_7,3,female,guarantor,3,car_other,41,none,free,1,skilled,1,yes,yes,Risk
+785,no_checking,28,prior_payments_delayed,car_used,6860,100_to_500,1_to_4,4,male,none,3,savings_insurance,40,none,own,2,management_self-employed,1,yes,yes,No Risk
+786,no_checking,28,prior_payments_delayed,education,4547,unknown,greater_7,3,male,none,4,savings_insurance,42,none,own,1,skilled,1,none,yes,Risk
+787,no_checking,28,prior_payments_delayed,education,6235,500_to_1000,greater_7,3,male,none,3,unknown,57,none,own,2,skilled,1,none,yes,Risk
+788,no_checking,28,prior_payments_delayed,radio_tv,7519,100_to_500,greater_7,5,male,guarantor,4,savings_insurance,42,none,free,1,skilled,1,yes,yes,Risk
+789,no_checking,28,prior_payments_delayed,radio_tv,8318,greater_1000,1_to_4,4,male,none,4,unknown,47,none,own,2,management_self-employed,2,yes,yes,No Risk
+790,no_checking,29,all_credits_paid_back,furniture,3891,less_100,less_1,3,female,none,4,savings_insurance,32,stores,own,1,skilled,1,none,yes,No Risk
+791,no_checking,29,all_credits_paid_back,radio_tv,3860,less_100,4_to_7,3,female,guarantor,3,car_other,49,none,free,1,unskilled,1,none,yes,Risk
+792,no_checking,29,credits_paid_to_date,business,6417,100_to_500,1_to_4,4,male,none,4,savings_insurance,40,none,own,1,management_self-employed,1,none,yes,No Risk
+793,no_checking,29,credits_paid_to_date,car_used,5011,100_to_500,1_to_4,3,male,none,4,car_other,40,none,own,1,skilled,1,yes,yes,No Risk
+794,no_checking,29,credits_paid_to_date,radio_tv,5260,100_to_500,less_1,4,female,none,4,car_other,48,none,own,1,skilled,1,none,yes,Risk
+795,no_checking,29,outstanding_credit,appliances,4504,unknown,greater_7,4,female,none,4,car_other,34,none,own,2,skilled,1,yes,yes,Risk
+796,no_checking,29,outstanding_credit,appliances,5018,500_to_1000,1_to_4,3,male,none,4,car_other,67,stores,own,2,unskilled,2,yes,yes,No Risk
+797,no_checking,29,outstanding_credit,appliances,5379,unknown,greater_7,5,male,none,5,unknown,64,none,free,2,skilled,2,yes,yes,Risk
+798,no_checking,29,outstanding_credit,appliances,5816,500_to_1000,4_to_7,5,male,none,4,unknown,50,none,free,2,skilled,2,yes,yes,Risk
+799,no_checking,29,outstanding_credit,appliances,6238,500_to_1000,4_to_7,3,male,none,3,car_other,41,none,own,1,skilled,1,none,yes,Risk
+800,no_checking,29,outstanding_credit,appliances,7765,500_to_1000,greater_7,5,male,co-applicant,4,unknown,48,none,free,2,management_self-employed,2,yes,yes,Risk
+801,no_checking,29,outstanding_credit,furniture,6000,greater_1000,4_to_7,3,male,none,4,unknown,57,none,own,2,skilled,1,yes,yes,Risk
+802,no_checking,29,outstanding_credit,furniture,6815,unknown,greater_7,4,male,co-applicant,3,car_other,36,none,own,2,skilled,1,yes,yes,Risk
+803,no_checking,29,outstanding_credit,repairs,4794,500_to_1000,4_to_7,4,male,none,3,unknown,30,none,own,1,skilled,1,yes,yes,No Risk
+804,no_checking,29,outstanding_credit,repairs,6165,500_to_1000,greater_7,5,male,none,4,car_other,49,none,own,2,management_self-employed,1,yes,yes,Risk
+805,no_checking,29,prior_payments_delayed,appliances,5488,100_to_500,4_to_7,4,female,none,4,car_other,52,none,own,2,skilled,1,none,yes,Risk
+806,no_checking,29,prior_payments_delayed,appliances,5594,100_to_500,4_to_7,3,male,none,4,car_other,41,bank,own,2,unskilled,1,none,yes,No Risk
+807,no_checking,29,prior_payments_delayed,appliances,6756,100_to_500,4_to_7,4,female,none,4,car_other,55,none,own,2,skilled,1,yes,yes,Risk
+808,no_checking,29,prior_payments_delayed,business,4780,100_to_500,4_to_7,3,male,none,4,car_other,42,none,free,1,skilled,1,none,yes,No Risk
+809,no_checking,29,prior_payments_delayed,car_used,5589,100_to_500,4_to_7,4,male,none,3,car_other,44,none,own,2,management_self-employed,1,yes,yes,No Risk
+810,no_checking,29,prior_payments_delayed,radio_tv,4541,greater_1000,1_to_4,4,male,none,4,savings_insurance,34,none,own,2,management_self-employed,1,none,yes,No Risk
+811,no_checking,29,prior_payments_delayed,radio_tv,5169,500_to_1000,greater_7,3,female,none,4,savings_insurance,42,none,own,1,skilled,1,yes,yes,Risk
+812,no_checking,30,all_credits_paid_back,car_used,1102,100_to_500,unemployed,3,female,none,4,savings_insurance,19,none,own,1,skilled,1,none,yes,No Risk
+813,no_checking,30,outstanding_credit,appliances,8293,greater_1000,4_to_7,5,male,co-applicant,4,unknown,51,none,own,2,management_self-employed,2,none,yes,Risk
+814,no_checking,30,outstanding_credit,other,4730,unknown,greater_7,5,female,co-applicant,3,car_other,56,none,free,2,skilled,1,yes,yes,No Risk
+815,no_checking,30,outstanding_credit,other,10679,unknown,1_to_4,5,male,none,4,unknown,39,none,free,2,management_self-employed,2,yes,yes,Risk
+816,no_checking,30,outstanding_credit,repairs,7613,500_to_1000,1_to_4,4,male,none,5,unknown,41,none,free,2,management_self-employed,1,yes,yes,Risk
+817,no_checking,30,outstanding_credit,repairs,7908,500_to_1000,4_to_7,3,male,co-applicant,3,unknown,44,none,free,2,skilled,1,yes,yes,Risk
+818,no_checking,30,outstanding_credit,vacation,8739,500_to_1000,greater_7,5,male,co-applicant,5,car_other,46,none,free,2,management_self-employed,1,yes,yes,Risk
+819,no_checking,30,prior_payments_delayed,appliances,6205,100_to_500,greater_7,5,female,none,3,car_other,48,none,own,1,skilled,1,none,yes,Risk
+820,no_checking,30,prior_payments_delayed,business,4926,100_to_500,1_to_4,4,male,none,3,savings_insurance,40,none,own,2,management_self-employed,2,yes,yes,No Risk
+821,no_checking,30,prior_payments_delayed,business,6677,100_to_500,less_1,3,female,none,3,savings_insurance,39,none,own,1,management_self-employed,1,none,yes,No Risk
+822,no_checking,30,prior_payments_delayed,car_used,5583,500_to_1000,4_to_7,3,female,guarantor,4,savings_insurance,49,bank,own,2,unemployed,1,yes,yes,Risk
+823,no_checking,30,prior_payments_delayed,education,6268,unknown,1_to_4,4,female,none,3,savings_insurance,34,none,own,2,skilled,2,yes,yes,Risk
+824,no_checking,30,prior_payments_delayed,furniture,5119,100_to_500,4_to_7,3,female,none,3,car_other,55,none,own,1,skilled,1,none,yes,Risk
+825,no_checking,30,prior_payments_delayed,furniture,5546,unknown,greater_7,4,male,none,5,car_other,37,none,own,2,skilled,1,none,yes,No Risk
+826,no_checking,30,prior_payments_delayed,furniture,6220,100_to_500,greater_7,5,male,none,5,car_other,50,none,free,2,management_self-employed,1,yes,yes,Risk
+827,no_checking,31,credits_paid_to_date,furniture,5205,100_to_500,1_to_4,3,male,none,2,car_other,38,none,own,2,skilled,1,yes,yes,No Risk
+828,no_checking,31,outstanding_credit,education,6500,500_to_1000,4_to_7,4,female,none,3,unknown,50,none,own,1,management_self-employed,1,yes,yes,Risk
+829,no_checking,31,outstanding_credit,other,4452,unknown,greater_7,5,male,none,3,car_other,46,none,own,2,skilled,1,none,yes,No Risk
+830,no_checking,31,outstanding_credit,other,9225,500_to_1000,greater_7,4,male,co-applicant,3,unknown,50,none,own,2,skilled,1,yes,yes,Risk
+831,no_checking,31,outstanding_credit,radio_tv,2523,500_to_1000,greater_7,4,female,none,3,unknown,38,none,own,1,skilled,1,yes,yes,Risk
+832,no_checking,31,outstanding_credit,radio_tv,6156,500_to_1000,greater_7,4,male,co-applicant,3,unknown,39,none,free,2,skilled,1,yes,yes,Risk
+833,no_checking,31,outstanding_credit,repairs,8411,500_to_1000,4_to_7,5,male,co-applicant,5,unknown,46,none,free,2,management_self-employed,2,yes,yes,Risk
+834,no_checking,31,prior_payments_delayed,appliances,2071,500_to_1000,greater_7,4,male,guarantor,4,savings_insurance,46,none,free,1,unskilled,1,yes,yes,Risk
+835,no_checking,31,prior_payments_delayed,appliances,4594,unknown,greater_7,4,male,guarantor,5,savings_insurance,50,none,free,2,skilled,1,yes,yes,No Risk
+836,no_checking,31,prior_payments_delayed,appliances,5441,unknown,greater_7,4,male,none,4,unknown,47,none,own,2,skilled,1,yes,yes,Risk
+837,no_checking,31,prior_payments_delayed,appliances,6610,100_to_500,1_to_4,4,female,none,3,savings_insurance,48,none,own,2,skilled,1,none,yes,No Risk
+838,no_checking,31,prior_payments_delayed,appliances,6940,100_to_500,1_to_4,4,male,none,3,car_other,40,stores,own,1,unskilled,1,none,yes,No Risk
+839,no_checking,31,prior_payments_delayed,appliances,7074,100_to_500,4_to_7,3,male,guarantor,3,unknown,49,none,free,1,skilled,1,yes,yes,Risk
+840,no_checking,31,prior_payments_delayed,car_used,1816,500_to_1000,1_to_4,4,male,none,3,savings_insurance,32,none,own,1,skilled,1,none,yes,No Risk
+841,no_checking,31,prior_payments_delayed,car_used,4422,unknown,greater_7,5,male,none,4,savings_insurance,43,none,own,2,skilled,1,none,yes,No Risk
+842,no_checking,31,prior_payments_delayed,car_used,6795,greater_1000,1_to_4,4,male,none,5,car_other,39,none,own,2,unskilled,1,yes,yes,No Risk
+843,no_checking,31,prior_payments_delayed,education,6128,greater_1000,4_to_7,3,female,none,3,car_other,40,none,own,2,skilled,1,yes,yes,Risk
+844,no_checking,31,prior_payments_delayed,furniture,5116,100_to_500,4_to_7,3,male,none,3,savings_insurance,43,stores,own,2,unskilled,1,yes,yes,No Risk
+845,no_checking,31,prior_payments_delayed,furniture,7410,unknown,4_to_7,3,male,co-applicant,3,savings_insurance,39,none,own,2,skilled,1,none,yes,Risk
+846,no_checking,31,prior_payments_delayed,radio_tv,5637,100_to_500,4_to_7,4,male,none,5,car_other,32,none,own,1,skilled,1,yes,yes,Risk
+847,no_checking,32,outstanding_credit,appliances,5835,500_to_1000,4_to_7,4,female,none,4,savings_insurance,50,none,own,2,skilled,2,yes,yes,No Risk
+848,no_checking,32,outstanding_credit,furniture,4581,500_to_1000,4_to_7,3,female,none,2,car_other,52,bank,rent,1,unemployed,1,yes,yes,Risk
+849,no_checking,32,outstanding_credit,furniture,5460,500_to_1000,1_to_4,4,male,none,5,car_other,41,none,own,1,management_self-employed,1,none,no,Risk
+850,no_checking,32,outstanding_credit,repairs,6172,500_to_1000,greater_7,5,male,co-applicant,3,unknown,31,none,free,1,management_self-employed,1,yes,yes,Risk
+851,no_checking,32,outstanding_credit,repairs,7546,500_to_1000,4_to_7,3,male,co-applicant,4,unknown,47,none,free,3,skilled,2,yes,yes,Risk
+852,no_checking,32,outstanding_credit,vacation,6367,500_to_1000,greater_7,4,male,co-applicant,3,unknown,58,none,free,2,skilled,1,yes,yes,Risk
+853,no_checking,32,outstanding_credit,vacation,9604,500_to_1000,greater_7,6,male,co-applicant,5,unknown,57,none,free,2,skilled,2,yes,yes,Risk
+854,no_checking,32,prior_payments_delayed,appliances,6680,100_to_500,greater_7,5,male,none,4,unknown,44,none,free,2,management_self-employed,2,yes,yes,Risk
+855,no_checking,32,prior_payments_delayed,business,5843,500_to_1000,greater_7,4,female,none,3,savings_insurance,51,none,own,2,skilled,1,none,yes,Risk
+856,no_checking,32,prior_payments_delayed,business,6303,100_to_500,greater_7,4,male,none,3,unknown,59,none,free,2,skilled,1,yes,yes,Risk
+857,no_checking,32,prior_payments_delayed,business,6966,100_to_500,greater_7,4,female,none,2,car_other,43,none,free,3,skilled,1,none,yes,Risk
+858,no_checking,32,prior_payments_delayed,car_used,2449,500_to_1000,4_to_7,4,female,none,4,car_other,30,none,own,2,skilled,1,none,yes,Risk
+859,no_checking,32,prior_payments_delayed,car_used,5930,500_to_1000,less_1,2,male,none,4,car_other,41,none,own,1,management_self-employed,1,yes,yes,No Risk
+860,no_checking,32,prior_payments_delayed,car_used,6881,100_to_500,4_to_7,4,female,none,5,car_other,47,none,free,2,skilled,1,none,yes,Risk
+861,no_checking,32,prior_payments_delayed,car_used,7832,greater_1000,1_to_4,4,male,co-applicant,4,car_other,37,none,own,2,management_self-employed,1,none,yes,No Risk
+862,no_checking,32,prior_payments_delayed,car_used,8821,100_to_500,4_to_7,5,male,co-applicant,3,unknown,43,none,free,2,management_self-employed,1,yes,yes,Risk
+863,no_checking,32,prior_payments_delayed,car_used,9594,500_to_1000,greater_7,5,male,co-applicant,4,unknown,50,stores,own,2,unskilled,2,yes,yes,No Risk
+864,no_checking,32,prior_payments_delayed,radio_tv,2803,500_to_1000,greater_7,4,male,none,4,savings_insurance,29,none,own,2,skilled,1,none,yes,Risk
+865,no_checking,32,prior_payments_delayed,radio_tv,6315,100_to_500,greater_7,4,male,co-applicant,5,unknown,63,none,free,3,skilled,2,yes,yes,Risk
+866,no_checking,32,prior_payments_delayed,radio_tv,7663,100_to_500,1_to_4,3,female,none,4,savings_insurance,36,none,own,2,skilled,1,none,yes,Risk
+867,no_checking,32,prior_payments_delayed,vacation,5293,100_to_500,greater_7,4,female,none,4,car_other,42,none,free,2,skilled,1,yes,yes,Risk
+868,no_checking,32,prior_payments_delayed,vacation,5743,100_to_500,less_1,4,male,none,3,savings_insurance,29,none,own,1,management_self-employed,1,none,yes,No Risk
+869,no_checking,33,all_credits_paid_back,furniture,3810,100_to_500,less_1,2,female,co-applicant,4,savings_insurance,35,none,own,1,skilled,1,none,yes,Risk
+870,no_checking,33,credits_paid_to_date,furniture,6261,100_to_500,4_to_7,4,male,guarantor,4,car_other,51,none,free,2,skilled,1,yes,yes,No Risk
+871,no_checking,33,outstanding_credit,furniture,4521,500_to_1000,4_to_7,3,female,none,4,unknown,39,none,own,1,skilled,1,yes,yes,Risk
+872,no_checking,33,outstanding_credit,furniture,4658,greater_1000,4_to_7,4,male,none,4,savings_insurance,41,none,free,2,skilled,1,yes,yes,No Risk
+873,no_checking,33,outstanding_credit,other,5853,500_to_1000,1_to_4,4,male,none,5,car_other,38,stores,own,2,unskilled,1,yes,yes,Risk
+874,no_checking,33,outstanding_credit,radio_tv,2771,greater_1000,4_to_7,3,male,none,2,car_other,30,none,own,1,skilled,1,none,yes,Risk
+875,no_checking,33,outstanding_credit,radio_tv,5742,500_to_1000,4_to_7,4,male,none,3,car_other,52,none,free,2,skilled,1,none,yes,No Risk
+876,no_checking,33,outstanding_credit,repairs,7744,unknown,greater_7,4,male,co-applicant,5,unknown,56,none,free,3,skilled,2,yes,yes,Risk
+877,no_checking,33,prior_payments_delayed,appliances,4177,500_to_1000,4_to_7,4,male,none,3,savings_insurance,39,none,own,2,skilled,2,yes,yes,Risk
+878,no_checking,33,prior_payments_delayed,appliances,5649,unknown,greater_7,4,male,none,3,car_other,43,none,own,2,skilled,1,none,yes,No Risk
+879,no_checking,33,prior_payments_delayed,appliances,6516,500_to_1000,4_to_7,4,male,none,4,car_other,54,none,own,2,skilled,1,yes,yes,No Risk
+880,no_checking,33,prior_payments_delayed,furniture,2008,unknown,1_to_4,4,female,none,2,car_other,38,none,rent,2,skilled,1,none,yes,Risk
+881,no_checking,33,prior_payments_delayed,furniture,5315,unknown,1_to_4,3,male,none,3,savings_insurance,50,none,own,2,skilled,1,yes,yes,Risk
+882,no_checking,33,prior_payments_delayed,radio_tv,3548,unknown,greater_7,5,female,none,4,savings_insurance,44,none,free,2,skilled,2,yes,yes,Risk
+883,no_checking,33,prior_payments_delayed,radio_tv,5243,500_to_1000,4_to_7,4,male,none,3,car_other,47,none,own,2,skilled,1,yes,yes,No Risk
+884,no_checking,33,prior_payments_delayed,radio_tv,5774,500_to_1000,4_to_7,5,male,none,3,savings_insurance,47,stores,own,2,unskilled,1,none,yes,No Risk
+885,no_checking,34,credits_paid_to_date,business,4674,500_to_1000,4_to_7,4,female,none,3,savings_insurance,44,none,own,2,skilled,1,none,yes,No Risk
+886,no_checking,34,outstanding_credit,appliances,2838,500_to_1000,greater_7,4,female,none,4,savings_insurance,35,none,free,1,skilled,1,yes,yes,Risk
+887,no_checking,34,outstanding_credit,furniture,5283,unknown,1_to_4,4,male,none,5,car_other,43,none,own,2,skilled,2,yes,yes,Risk
+888,no_checking,34,outstanding_credit,radio_tv,7180,greater_1000,greater_7,4,male,co-applicant,3,unknown,59,none,free,2,skilled,2,yes,yes,Risk
+889,no_checking,34,outstanding_credit,repairs,8281,greater_1000,greater_7,5,male,co-applicant,3,unknown,56,none,own,2,skilled,2,yes,yes,Risk
+890,no_checking,34,outstanding_credit,vacation,8750,500_to_1000,greater_7,5,male,co-applicant,3,unknown,61,stores,free,2,unskilled,1,yes,yes,Risk
+891,no_checking,34,prior_payments_delayed,appliances,4834,500_to_1000,4_to_7,3,male,none,4,unknown,47,none,own,2,skilled,2,yes,yes,Risk
+892,no_checking,34,prior_payments_delayed,appliances,5422,500_to_1000,4_to_7,5,female,none,4,unknown,34,none,own,2,skilled,2,yes,yes,Risk
+893,no_checking,34,prior_payments_delayed,appliances,6083,500_to_1000,1_to_4,4,male,none,5,savings_insurance,34,none,free,2,management_self-employed,1,yes,yes,No Risk
+894,no_checking,34,prior_payments_delayed,furniture,4765,500_to_1000,greater_7,5,male,none,5,savings_insurance,49,none,free,2,management_self-employed,2,yes,yes,Risk
+895,no_checking,34,prior_payments_delayed,furniture,5851,greater_1000,greater_7,4,male,co-applicant,4,unknown,51,none,own,2,skilled,1,yes,yes,Risk
+896,no_checking,34,prior_payments_delayed,furniture,6063,unknown,1_to_4,4,male,none,5,car_other,40,none,own,2,skilled,1,none,yes,No Risk
+897,no_checking,34,prior_payments_delayed,radio_tv,5890,500_to_1000,greater_7,3,male,none,3,savings_insurance,42,none,free,1,skilled,1,none,yes,No Risk
+898,no_checking,35,outstanding_credit,furniture,6438,greater_1000,1_to_4,4,male,co-applicant,4,unknown,44,none,own,1,skilled,1,yes,yes,No Risk
+899,no_checking,35,outstanding_credit,other,3482,unknown,greater_7,4,male,none,4,car_other,59,none,free,2,skilled,2,yes,yes,Risk
+900,no_checking,35,outstanding_credit,repairs,5981,greater_1000,1_to_4,3,male,none,4,car_other,42,none,own,1,management_self-employed,1,yes,yes,Risk
+901,no_checking,35,outstanding_credit,repairs,7687,500_to_1000,greater_7,4,male,co-applicant,5,unknown,49,none,free,2,skilled,1,yes,yes,Risk
+902,no_checking,35,prior_payments_delayed,appliances,6512,unknown,4_to_7,5,male,none,5,unknown,41,none,free,2,management_self-employed,2,yes,yes,No Risk
+903,no_checking,35,prior_payments_delayed,education,5993,greater_1000,4_to_7,4,female,none,3,car_other,55,none,own,2,skilled,1,yes,yes,Risk
+904,no_checking,35,prior_payments_delayed,furniture,3103,500_to_1000,4_to_7,3,female,none,3,car_other,37,none,free,2,skilled,2,yes,yes,Risk
+905,no_checking,35,prior_payments_delayed,furniture,5222,500_to_1000,greater_7,5,male,none,4,car_other,48,stores,free,2,unskilled,2,yes,yes,No Risk
+906,no_checking,35,prior_payments_delayed,other,9096,unknown,4_to_7,5,female,none,5,unknown,45,none,own,3,skilled,2,yes,yes,Risk
+907,no_checking,35,prior_payments_delayed,radio_tv,5572,500_to_1000,greater_7,5,male,none,4,car_other,42,none,own,2,skilled,1,yes,yes,No Risk
+908,no_checking,36,outstanding_credit,appliances,5363,unknown,4_to_7,4,female,none,5,car_other,40,none,own,2,skilled,1,yes,yes,Risk
+909,no_checking,36,outstanding_credit,furniture,7339,unknown,greater_7,5,male,co-applicant,5,unknown,52,none,free,3,skilled,2,yes,yes,Risk
+910,no_checking,36,outstanding_credit,radio_tv,5832,unknown,greater_7,5,male,co-applicant,4,unknown,70,none,free,3,skilled,2,yes,yes,Risk
+911,no_checking,36,outstanding_credit,repairs,5673,unknown,greater_7,5,male,none,4,unknown,48,none,own,2,skilled,1,none,yes,Risk
+912,no_checking,36,outstanding_credit,repairs,6441,500_to_1000,greater_7,4,male,co-applicant,4,car_other,50,none,free,2,skilled,1,yes,no,Risk
+913,no_checking,36,prior_payments_delayed,appliances,5794,500_to_1000,4_to_7,4,female,guarantor,4,car_other,61,none,free,2,skilled,1,yes,yes,Risk
+914,no_checking,36,prior_payments_delayed,appliances,5927,unknown,greater_7,4,male,co-applicant,3,savings_insurance,47,none,own,2,skilled,1,none,yes,Risk
+915,no_checking,36,prior_payments_delayed,appliances,7004,500_to_1000,4_to_7,5,male,none,3,savings_insurance,40,none,free,2,management_self-employed,1,none,yes,Risk
+916,no_checking,36,prior_payments_delayed,appliances,7315,greater_1000,greater_7,5,male,none,4,unknown,58,none,free,2,skilled,1,yes,yes,Risk
+917,no_checking,36,prior_payments_delayed,appliances,8614,500_to_1000,1_to_4,4,male,co-applicant,3,car_other,38,none,own,2,management_self-employed,1,none,yes,No Risk
+918,no_checking,36,prior_payments_delayed,furniture,8293,500_to_1000,greater_7,4,male,guarantor,4,car_other,54,none,free,2,skilled,1,yes,yes,Risk
+919,no_checking,36,prior_payments_delayed,other,6778,500_to_1000,greater_7,5,male,none,3,unknown,53,none,free,2,skilled,1,yes,yes,Risk
+920,no_checking,36,prior_payments_delayed,radio_tv,5774,500_to_1000,greater_7,3,male,guarantor,5,savings_insurance,48,none,free,1,skilled,1,yes,yes,Risk
+921,no_checking,36,prior_payments_delayed,vacation,7694,unknown,greater_7,5,male,co-applicant,3,unknown,46,stores,own,3,unskilled,2,yes,yes,No Risk
+922,no_checking,37,credits_paid_to_date,furniture,1975,500_to_1000,greater_7,3,female,none,4,real_estate,28,bank,own,1,unemployed,1,none,yes,Risk
+923,no_checking,37,credits_paid_to_date,furniture,5433,500_to_1000,4_to_7,3,male,none,3,savings_insurance,39,none,own,2,skilled,1,yes,yes,Risk
+924,no_checking,37,outstanding_credit,other,5799,500_to_1000,greater_7,5,female,none,4,car_other,42,none,free,2,management_self-employed,2,yes,yes,Risk
+925,no_checking,37,outstanding_credit,radio_tv,10550,unknown,greater_7,5,male,co-applicant,4,unknown,48,stores,own,2,unemployed,2,yes,yes,Risk
+926,no_checking,37,prior_payments_delayed,appliances,6954,500_to_1000,greater_7,4,male,co-applicant,3,unknown,41,none,free,2,skilled,1,yes,yes,Risk
+927,no_checking,37,prior_payments_delayed,furniture,6254,500_to_1000,4_to_7,3,female,co-applicant,4,savings_insurance,47,none,own,2,skilled,1,yes,yes,Risk
+928,no_checking,37,prior_payments_delayed,other,6991,500_to_1000,greater_7,4,male,co-applicant,4,unknown,49,none,free,2,skilled,1,yes,yes,Risk
+929,no_checking,37,prior_payments_delayed,radio_tv,4766,greater_1000,4_to_7,4,female,none,3,car_other,50,bank,own,2,unemployed,1,yes,yes,Risk
+930,no_checking,37,prior_payments_delayed,repairs,6133,500_to_1000,1_to_4,4,male,none,5,savings_insurance,38,none,own,1,management_self-employed,1,yes,yes,No Risk
+931,no_checking,38,credits_paid_to_date,furniture,4965,500_to_1000,4_to_7,4,female,none,3,car_other,37,none,own,3,skilled,1,none,yes,Risk
+932,no_checking,38,outstanding_credit,appliances,5494,500_to_1000,1_to_4,3,male,none,3,savings_insurance,37,none,free,2,skilled,1,yes,yes,Risk
+933,no_checking,38,outstanding_credit,radio_tv,6971,unknown,4_to_7,5,male,co-applicant,5,unknown,45,stores,free,2,unskilled,2,yes,yes,Risk
+934,no_checking,38,prior_payments_delayed,appliances,6691,500_to_1000,1_to_4,4,male,none,4,unknown,39,none,own,2,skilled,1,yes,yes,No Risk
+935,no_checking,38,prior_payments_delayed,other,9717,100_to_500,greater_7,4,male,co-applicant,4,unknown,49,none,free,3,skilled,1,yes,yes,Risk
+936,no_checking,38,prior_payments_delayed,repairs,6353,unknown,greater_7,4,male,co-applicant,3,car_other,31,none,own,2,skilled,1,yes,yes,Risk
+937,no_checking,38,prior_payments_delayed,repairs,8489,500_to_1000,1_to_4,4,male,guarantor,5,car_other,45,none,free,3,skilled,1,yes,yes,Risk
+938,no_checking,39,credits_paid_to_date,appliances,3054,100_to_500,greater_7,3,male,none,4,real_estate,21,none,own,1,skilled,1,none,yes,No Risk
+939,no_checking,39,credits_paid_to_date,furniture,4909,500_to_1000,1_to_4,4,male,none,5,savings_insurance,34,stores,rent,1,unskilled,1,none,yes,Risk
+940,no_checking,39,credits_paid_to_date,vacation,6434,unknown,greater_7,5,female,none,4,car_other,39,none,own,2,skilled,2,yes,yes,Risk
+941,no_checking,39,outstanding_credit,furniture,6162,500_to_1000,4_to_7,4,male,co-applicant,3,car_other,46,none,free,2,skilled,1,yes,yes,Risk
+942,no_checking,39,outstanding_credit,other,6559,greater_1000,4_to_7,4,female,none,2,car_other,57,bank,own,2,unskilled,2,yes,yes,Risk
+943,no_checking,39,outstanding_credit,radio_tv,5617,greater_1000,greater_7,5,male,co-applicant,4,car_other,54,none,own,2,skilled,1,yes,yes,Risk
+944,no_checking,39,prior_payments_delayed,other,7929,greater_1000,greater_7,5,male,co-applicant,4,car_other,44,none,free,2,management_self-employed,1,none,yes,Risk
+945,no_checking,39,prior_payments_delayed,radio_tv,6769,500_to_1000,4_to_7,3,male,co-applicant,4,unknown,60,stores,own,2,unskilled,1,yes,yes,Risk
+946,no_checking,40,outstanding_credit,repairs,5624,greater_1000,greater_7,5,male,co-applicant,5,car_other,42,none,free,2,skilled,1,yes,yes,Risk
+947,no_checking,40,outstanding_credit,repairs,7183,greater_1000,greater_7,4,male,co-applicant,3,car_other,52,none,free,2,skilled,1,yes,yes,Risk
+948,no_checking,40,outstanding_credit,retraining,7846,greater_1000,greater_7,4,male,guarantor,4,unknown,56,none,free,2,skilled,1,yes,yes,Risk
+949,no_checking,40,outstanding_credit,vacation,7757,greater_1000,greater_7,4,male,co-applicant,3,unknown,51,none,free,2,skilled,1,yes,yes,Risk
+950,no_checking,40,prior_payments_delayed,appliances,10430,500_to_1000,4_to_7,5,male,co-applicant,4,car_other,51,none,own,2,skilled,1,none,yes,No Risk
+951,no_checking,40,prior_payments_delayed,furniture,7987,500_to_1000,greater_7,5,male,co-applicant,5,car_other,45,stores,own,2,unskilled,1,yes,yes,Risk
+952,no_checking,40,prior_payments_delayed,furniture,11347,unknown,4_to_7,4,male,co-applicant,3,car_other,28,none,free,3,skilled,2,yes,yes,Risk
+953,no_checking,40,prior_payments_delayed,radio_tv,7030,unknown,greater_7,4,male,co-applicant,4,car_other,45,none,own,2,skilled,2,yes,yes,Risk
+954,no_checking,40,prior_payments_delayed,repairs,8523,500_to_1000,greater_7,5,male,co-applicant,4,unknown,49,none,free,2,skilled,2,yes,yes,Risk
+955,no_checking,40,prior_payments_delayed,repairs,8673,500_to_1000,greater_7,5,male,co-applicant,4,car_other,53,none,own,2,skilled,2,yes,yes,Risk
+956,no_checking,40,prior_payments_delayed,vacation,3009,500_to_1000,1_to_4,4,male,none,4,car_other,30,stores,own,1,unskilled,1,none,yes,No Risk
+957,no_checking,41,credits_paid_to_date,furniture,5628,unknown,greater_7,5,male,none,5,savings_insurance,43,stores,own,2,unskilled,1,yes,yes,No Risk
+958,no_checking,41,outstanding_credit,repairs,3754,unknown,greater_7,5,male,none,5,car_other,55,none,free,2,skilled,2,yes,yes,Risk
+959,no_checking,41,outstanding_credit,repairs,4336,greater_1000,greater_7,5,male,co-applicant,5,car_other,52,none,free,2,skilled,1,yes,yes,Risk
+960,no_checking,41,outstanding_credit,repairs,9528,greater_1000,1_to_4,4,female,co-applicant,5,car_other,41,none,free,2,management_self-employed,1,yes,yes,Risk
+961,no_checking,41,prior_payments_delayed,appliances,3982,unknown,1_to_4,4,male,none,3,real_estate,25,none,own,1,skilled,1,none,yes,No Risk
+962,no_checking,41,prior_payments_delayed,other,7800,500_to_1000,greater_7,5,male,co-applicant,5,car_other,45,none,free,2,skilled,1,yes,yes,Risk
+963,no_checking,41,prior_payments_delayed,repairs,5912,500_to_1000,greater_7,5,male,co-applicant,4,unknown,46,none,free,2,skilled,1,yes,yes,Risk
+964,no_checking,41,prior_payments_delayed,repairs,7736,unknown,greater_7,4,male,co-applicant,3,unknown,46,none,own,2,skilled,2,yes,yes,Risk
+965,no_checking,41,prior_payments_delayed,vacation,3053,500_to_1000,greater_7,5,male,none,5,car_other,48,none,own,2,skilled,1,yes,yes,Risk
+966,no_checking,41,prior_payments_delayed,vacation,5887,500_to_1000,greater_7,4,male,none,4,unknown,47,none,free,2,skilled,1,yes,yes,Risk
+967,no_checking,41,prior_payments_delayed,vacation,6415,greater_1000,greater_7,4,male,guarantor,4,car_other,56,none,free,2,skilled,1,yes,yes,Risk
+968,no_checking,42,credits_paid_to_date,furniture,6640,100_to_500,1_to_4,3,male,none,4,car_other,36,none,own,2,skilled,1,none,yes,No Risk
+969,no_checking,42,outstanding_credit,education,6149,greater_1000,4_to_7,4,male,co-applicant,4,unknown,45,none,free,2,skilled,1,yes,yes,Risk
+970,no_checking,42,outstanding_credit,repairs,6617,greater_1000,greater_7,5,male,co-applicant,5,unknown,60,none,free,3,skilled,2,yes,yes,Risk
+971,no_checking,42,prior_payments_delayed,repairs,7321,500_to_1000,1_to_4,4,male,none,3,car_other,39,none,own,1,management_self-employed,1,none,yes,Risk
+972,no_checking,42,prior_payments_delayed,repairs,8226,500_to_1000,4_to_7,4,male,co-applicant,5,unknown,50,none,free,2,skilled,1,yes,yes,Risk
+973,no_checking,43,credits_paid_to_date,furniture,2668,500_to_1000,4_to_7,3,male,none,2,car_other,39,stores,own,2,unskilled,1,yes,yes,No Risk
+974,no_checking,43,credits_paid_to_date,furniture,4704,500_to_1000,4_to_7,4,female,guarantor,4,real_estate,41,bank,own,2,unemployed,1,yes,yes,Risk
+975,no_checking,43,outstanding_credit,repairs,7877,unknown,greater_7,5,male,co-applicant,3,unknown,56,none,free,2,skilled,2,yes,yes,Risk
+976,no_checking,43,prior_payments_delayed,repairs,5775,500_to_1000,greater_7,5,male,co-applicant,3,unknown,47,none,free,3,skilled,2,yes,yes,Risk
+977,no_checking,44,outstanding_credit,appliances,7532,greater_1000,greater_7,4,male,co-applicant,3,unknown,47,none,own,2,skilled,1,none,yes,Risk
+978,no_checking,44,outstanding_credit,radio_tv,7689,unknown,greater_7,5,male,co-applicant,3,unknown,61,bank,own,3,unemployed,2,yes,yes,Risk
+979,no_checking,44,prior_payments_delayed,radio_tv,7899,unknown,greater_7,5,male,co-applicant,4,unknown,54,none,free,3,unskilled,1,yes,yes,Risk
+980,no_checking,44,prior_payments_delayed,repairs,8392,500_to_1000,1_to_4,4,male,co-applicant,3,savings_insurance,33,none,own,2,management_self-employed,2,none,yes,No Risk
+981,no_checking,45,outstanding_credit,education,6607,greater_1000,greater_7,5,male,co-applicant,5,unknown,53,stores,free,2,unskilled,2,yes,yes,Risk
+982,no_checking,45,prior_payments_delayed,appliances,6038,500_to_1000,4_to_7,4,male,guarantor,5,unknown,58,none,free,2,skilled,2,yes,yes,Risk
+983,no_checking,46,outstanding_credit,repairs,5579,greater_1000,4_to_7,5,male,co-applicant,5,unknown,41,none,own,1,skilled,1,yes,yes,Risk
+984,no_checking,48,outstanding_credit,repairs,6967,unknown,greater_7,4,female,co-applicant,5,unknown,54,none,free,2,skilled,2,yes,yes,Risk
+985,no_checking,49,outstanding_credit,other,7409,500_to_1000,greater_7,5,male,co-applicant,3,unknown,48,none,own,2,skilled,1,none,yes,Risk
+986,no_checking,49,outstanding_credit,radio_tv,6621,greater_1000,4_to_7,4,male,co-applicant,5,unknown,44,bank,own,2,unskilled,1,yes,yes,No Risk
+987,no_checking,49,outstanding_credit,radio_tv,6731,greater_1000,4_to_7,5,male,co-applicant,4,car_other,27,none,free,2,skilled,1,none,yes,Risk
+988,no_checking,50,outstanding_credit,appliances,7922,greater_1000,greater_7,5,female,co-applicant,6,unknown,59,none,own,3,skilled,2,yes,yes,Risk
+989,no_checking,50,outstanding_credit,other,4694,unknown,greater_7,4,female,none,4,unknown,37,none,own,1,skilled,2,yes,yes,Risk
+990,no_checking,50,outstanding_credit,repairs,9426,greater_1000,4_to_7,5,male,co-applicant,5,car_other,42,none,free,3,management_self-employed,2,yes,yes,Risk
+991,no_checking,51,outstanding_credit,repairs,7248,greater_1000,greater_7,5,male,co-applicant,5,car_other,42,none,free,2,skilled,1,yes,yes,Risk
+992,no_checking,52,outstanding_credit,other,10797,500_to_1000,greater_7,5,male,co-applicant,4,unknown,48,none,free,2,skilled,2,yes,no,Risk
+993,no_checking,56,outstanding_credit,retraining,7417,unknown,greater_7,4,male,co-applicant,5,car_other,49,none,free,3,skilled,2,yes,yes,Risk
+994,no_checking,62,outstanding_credit,other,7523,unknown,greater_7,5,male,co-applicant,4,unknown,36,stores,own,2,unskilled,2,yes,yes,Risk
